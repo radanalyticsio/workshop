@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Mind Map</title>
+</head>
+<body>
+<outline text="Workshop"><outline text="Data science crash course"><outline text="Classic techniques"><outline text="Classification "></outline>
+<outline text="Regression "></outline>
+<outline text="Clustering"></outline>
+<outline text="Recommenders"></outline>
+</outline>
+<outline text="Feature engineering"><outline text="Data cleaning"></outline>
+<outline text="Normalization "></outline>
+<outline text="Encoding/binarization"></outline>
+<outline text="Natural-language features"></outline>
+</outline>
+<outline text="Preliminaries:  learning from data"></outline>
+</outline>
+<outline text="Introducing Spark"></outline>
+<outline text="Deploying an app on OpenShift"></outline>
+</outline>
+</body>
+</opml>
