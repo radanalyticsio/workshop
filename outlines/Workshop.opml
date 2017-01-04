@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
 <head>
-<title>Mind Map</title>
+<title>Workshop</title>
 </head>
 <body>
-<outline text="Workshop"><outline text="Data science crash course"><outline text="Classic techniques"><outline text="Classification "></outline>
+<outline text="Workshop"><outline text="Data science crash course"><outline text="Classic techniques"><outline text="Classification "><outline text="Example:  spam filtering"></outline>
+<outline text="Example:  patient triage"></outline>
+</outline>
 <outline text="Regression "></outline>
-<outline text="Clustering"></outline>
+<outline text="Clustering"><outline text="Example:  where to put retail stores"></outline>
+<outline text="Example:  identifying related products"></outline>
+<outline text="Example:  market segmentation "></outline>
+</outline>
 <outline text="Recommenders"></outline>
 </outline>
-<outline text="Feature engineering"><outline text="Data cleaning"></outline>
-<outline text="Normalization "></outline>
+<outline text="Feature engineering"><outline text="Data cleaning"><outline text="Imposing structure"></outline>
+<outline text="Imposing constraints "></outline>
+<outline text="Correcting corrupt or spurious records where possible"></outline>
+<outline text="Rejecting corrupt or incomplete records when necessary "></outline>
+<outline text="Example:  address correction" _note="Does this address exist?&#10;Does this postal code exist?&#10;Can we geolocate this address?"></outline>
+<outline text="Example:  infrastructure log timestamps "></outline>
+</outline>
+<outline text="Normalization "><outline text="Simple example:  temperature scale ranges" _note="The range you choose depends a lot on what you&apos;re trying to do.  Consider temperature scales:  Fahrenheit is focused on typical ambient temperatures that can sustain human life, Celsius is focused on state changes in water, and Kelvin is more absolute."></outline>
+<outline text="Application-focused example:  fixed ranges to prepare for linear regression, PCA, or similar techniques"></outline>
+</outline>
 <outline text="Encoding/binarization"></outline>
-<outline text="Natural-language features"></outline>
+<outline text="Natural-language features"><outline text="Classical vs statistical techniques"></outline>
+<outline text="Stemming"></outline>
+<outline text="Stopwords"></outline>
+<outline text="TF-IDF"></outline>
+<outline text="Topic modeling"></outline>
+<outline text="Word2Vec"></outline>
+</outline>
+<outline text="Dimensionality reduction"></outline>
 </outline>
 <outline text="Preliminaries:  learning from data"></outline>
 </outline>
