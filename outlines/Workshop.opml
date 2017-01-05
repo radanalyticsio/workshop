@@ -24,7 +24,9 @@
 <outline text="Normalization "><outline text="Simple example:  temperature scale ranges" _note="The range you choose depends a lot on what you&apos;re trying to do.  Consider temperature scales:  Fahrenheit is focused on typical ambient temperatures that can sustain human life, Celsius is focused on state changes in water, and Kelvin is more absolute."></outline>
 <outline text="Application-focused example:  fixed ranges to prepare for linear regression, PCA, or similar techniques"></outline>
 </outline>
-<outline text="Encoding/binarization"></outline>
+<outline text="Encoding"><outline text="one-hot encoding"></outline>
+<outline text="hashing"></outline>
+</outline>
 <outline text="Natural-language features"><outline text="Classical vs statistical techniques"></outline>
 <outline text="Stemming"></outline>
 <outline text="Stopwords"></outline>
@@ -32,11 +34,21 @@
 <outline text="Topic modeling"></outline>
 <outline text="Word2Vec"></outline>
 </outline>
-<outline text="Dimensionality reduction"></outline>
+<outline text="Dimensionality reduction"><outline text="Motivation:  most high-dimensional data has relatively few meaningful dimensions"></outline>
+<outline text="PCA"></outline>
+<outline text="random projection"></outline>
+<outline text="tree-based approaches"></outline>
+</outline>
 </outline>
 <outline text="Preliminaries:  learning from data"></outline>
 </outline>
-<outline text="Introducing Spark"></outline>
+<outline text="Introducing Spark"><outline text="Fundamental ideas"><outline text="Data-parallel computation"></outline>
+<outline text="The RDD:  laziness, immutability, and resilience"></outline>
+<outline text="Example program"></outline>
+</outline>
+<outline text="Structured data"></outline>
+<outline text="Machine learning"></outline>
+</outline>
 <outline text="Deploying an app on OpenShift"></outline>
 </outline>
 </body>
