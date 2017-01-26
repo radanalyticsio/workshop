@@ -20,4 +20,4 @@ This will print out a container hash.  You'll then use either the name we specif
 
 Open the URL that command prints out and you're ready to go.
 
-When you're done, download any modified notebook files that you want to save (or copy them out directly with `docker cp /notebooks/$FILE .`) and then delete the container with `docker rm workshop-notebook`.
+When you're done, download any modified notebook files that you want to save (or copy them out directly with `docker cp workshop-notebook:/notebooks/$FILE .`) and then delete the container with `docker rm workshop-notebook`.
