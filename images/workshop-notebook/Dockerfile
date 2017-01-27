@@ -23,7 +23,7 @@ RUN chown -R $NB_USER:root /home/$NB_USER /data \
     && find /home/$NB_USER -type f -exec chmod g+rw {} \; \
     && find /data -type d -exec chmod g+rwx,o+rx {} \; \
     && find /data -type f -exec chmod g+rw {} \; \
-    && chmod -f g+rw /notebooks/var.ipynb
+    && chmod -f g+rw /notebooks/var.ipynb /notebooks/pyspark.ipynb
 
 USER $NB_UID
 ENV HOME /home/$NB_USER
