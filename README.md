@@ -10,7 +10,7 @@ For the hands-on portion, you'll need Docker or a compatible container runtime i
 
 You'll want to pull the `willb/workshop:notebook` image:
 
-`docker pull willb/workshop`
+`docker pull willb/workshop:notebook`
 
 You'll also want to clone the [git repository](https://github.com/radanalyticsio/var-sandbox) for the application skeleton we'll be fleshing out in the workshop:
 
