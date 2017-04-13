@@ -32,4 +32,4 @@ LABEL io.k8s.description="PySpark Jupyter Notebook with VaR calculation." \
       io.k8s.display-name="PySpark Jupyter Notebook with VaR calculation." \
       io.openshift.expose-services="8888:http"
 
-CMD ["/start.sh"]
+CMD ["/entrypoint", "/start.sh"]
