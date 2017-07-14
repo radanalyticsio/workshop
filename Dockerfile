@@ -11,11 +11,9 @@ EXPOSE 8888
 USER $NB_UID
 
 ADD wikieod.parquet /data/wikieod.parquet
-ADD wikieod8.parquet /data/wikieod8.parquet
 ADD msgs.parquet /data/msgs.parquet
 
 ADD var.ipynb /notebooks/var.ipynb
-ADD var-demo.ipynb /notebooks/var-demo.ipynb
 ADD pyspark.ipynb /notebooks/pyspark.ipynb
 
 USER root
