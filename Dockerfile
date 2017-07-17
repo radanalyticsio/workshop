@@ -15,6 +15,8 @@ ADD msgs.parquet /data/msgs.parquet
 
 ADD var.ipynb /notebooks/var.ipynb
 ADD pyspark.ipynb /notebooks/pyspark.ipynb
+ADD ml-basics.ipynb /notebooks/ml-basics.ipynb
+ADD auto-mpg.json /notebooks/data/
 
 USER root
 

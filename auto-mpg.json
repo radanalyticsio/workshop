@@ -1,0 +1,398 @@
+{"acceleration": 12.0, "mpg": 18.0, "car name": "chevrolet chevelle malibu", "cylinders": 8, "weight": 3504.0, "displacement": 307.0, "horsepower": 130.0, "model year": 70, "origin": 1}
+{"acceleration": 11.5, "mpg": 15.0, "car name": "buick skylark 320", "cylinders": 8, "weight": 3693.0, "displacement": 350.0, "horsepower": 165.0, "model year": 70, "origin": 1}
+{"acceleration": 11.0, "mpg": 18.0, "car name": "plymouth satellite", "cylinders": 8, "weight": 3436.0, "displacement": 318.0, "horsepower": 150.0, "model year": 70, "origin": 1}
+{"acceleration": 12.0, "mpg": 16.0, "car name": "amc rebel sst", "cylinders": 8, "weight": 3433.0, "displacement": 304.0, "horsepower": 150.0, "model year": 70, "origin": 1}
+{"acceleration": 10.5, "mpg": 17.0, "car name": "ford torino", "cylinders": 8, "weight": 3449.0, "displacement": 302.0, "horsepower": 140.0, "model year": 70, "origin": 1}
+{"acceleration": 10.0, "mpg": 15.0, "car name": "ford galaxie 500", "cylinders": 8, "weight": 4341.0, "displacement": 429.0, "horsepower": 198.0, "model year": 70, "origin": 1}
+{"acceleration": 9.0, "mpg": 14.0, "car name": "chevrolet impala", "cylinders": 8, "weight": 4354.0, "displacement": 454.0, "horsepower": 220.0, "model year": 70, "origin": 1}
+{"acceleration": 8.5, "mpg": 14.0, "car name": "plymouth fury iii", "cylinders": 8, "weight": 4312.0, "displacement": 440.0, "horsepower": 215.0, "model year": 70, "origin": 1}
+{"acceleration": 10.0, "mpg": 14.0, "car name": "pontiac catalina", "cylinders": 8, "weight": 4425.0, "displacement": 455.0, "horsepower": 225.0, "model year": 70, "origin": 1}
+{"acceleration": 8.5, "mpg": 15.0, "car name": "amc ambassador dpl", "cylinders": 8, "weight": 3850.0, "displacement": 390.0, "horsepower": 190.0, "model year": 70, "origin": 1}
+{"acceleration": 10.0, "mpg": 15.0, "car name": "dodge challenger se", "cylinders": 8, "weight": 3563.0, "displacement": 383.0, "horsepower": 170.0, "model year": 70, "origin": 1}
+{"acceleration": 8.0, "mpg": 14.0, "car name": "plymouth 'cuda 340", "cylinders": 8, "weight": 3609.0, "displacement": 340.0, "horsepower": 160.0, "model year": 70, "origin": 1}
+{"acceleration": 9.5, "mpg": 15.0, "car name": "chevrolet monte carlo", "cylinders": 8, "weight": 3761.0, "displacement": 400.0, "horsepower": 150.0, "model year": 70, "origin": 1}
+{"acceleration": 10.0, "mpg": 14.0, "car name": "buick estate wagon (sw)", "cylinders": 8, "weight": 3086.0, "displacement": 455.0, "horsepower": 225.0, "model year": 70, "origin": 1}
+{"acceleration": 15.0, "mpg": 24.0, "car name": "toyota corona mark ii", "cylinders": 4, "weight": 2372.0, "displacement": 113.0, "horsepower": 95.0, "model year": 70, "origin": 3}
+{"acceleration": 15.5, "mpg": 22.0, "car name": "plymouth duster", "cylinders": 6, "weight": 2833.0, "displacement": 198.0, "horsepower": 95.0, "model year": 70, "origin": 1}
+{"acceleration": 15.5, "mpg": 18.0, "car name": "amc hornet", "cylinders": 6, "weight": 2774.0, "displacement": 199.0, "horsepower": 97.0, "model year": 70, "origin": 1}
+{"acceleration": 16.0, "mpg": 21.0, "car name": "ford maverick", "cylinders": 6, "weight": 2587.0, "displacement": 200.0, "horsepower": 85.0, "model year": 70, "origin": 1}
+{"acceleration": 14.5, "mpg": 27.0, "car name": "datsun pl510", "cylinders": 4, "weight": 2130.0, "displacement": 97.0, "horsepower": 88.0, "model year": 70, "origin": 3}
+{"acceleration": 20.5, "mpg": 26.0, "car name": "volkswagen 1131 deluxe sedan", "cylinders": 4, "weight": 1835.0, "displacement": 97.0, "horsepower": 46.0, "model year": 70, "origin": 2}
+{"acceleration": 17.5, "mpg": 25.0, "car name": "peugeot 504", "cylinders": 4, "weight": 2672.0, "displacement": 110.0, "horsepower": 87.0, "model year": 70, "origin": 2}
+{"acceleration": 14.5, "mpg": 24.0, "car name": "audi 100 ls", "cylinders": 4, "weight": 2430.0, "displacement": 107.0, "horsepower": 90.0, "model year": 70, "origin": 2}
+{"acceleration": 17.5, "mpg": 25.0, "car name": "saab 99e", "cylinders": 4, "weight": 2375.0, "displacement": 104.0, "horsepower": 95.0, "model year": 70, "origin": 2}
+{"acceleration": 12.5, "mpg": 26.0, "car name": "bmw 2002", "cylinders": 4, "weight": 2234.0, "displacement": 121.0, "horsepower": 113.0, "model year": 70, "origin": 2}
+{"acceleration": 15.0, "mpg": 21.0, "car name": "amc gremlin", "cylinders": 6, "weight": 2648.0, "displacement": 199.0, "horsepower": 90.0, "model year": 70, "origin": 1}
+{"acceleration": 14.0, "mpg": 10.0, "car name": "ford f250", "cylinders": 8, "weight": 4615.0, "displacement": 360.0, "horsepower": 215.0, "model year": 70, "origin": 1}
+{"acceleration": 15.0, "mpg": 10.0, "car name": "chevy c20", "cylinders": 8, "weight": 4376.0, "displacement": 307.0, "horsepower": 200.0, "model year": 70, "origin": 1}
+{"acceleration": 13.5, "mpg": 11.0, "car name": "dodge d200", "cylinders": 8, "weight": 4382.0, "displacement": 318.0, "horsepower": 210.0, "model year": 70, "origin": 1}
+{"acceleration": 18.5, "mpg": 9.0, "car name": "hi 1200d", "cylinders": 8, "weight": 4732.0, "displacement": 304.0, "horsepower": 193.0, "model year": 70, "origin": 1}
+{"acceleration": 14.5, "mpg": 27.0, "car name": "datsun pl510", "cylinders": 4, "weight": 2130.0, "displacement": 97.0, "horsepower": 88.0, "model year": 71, "origin": 3}
+{"acceleration": 15.5, "mpg": 28.0, "car name": "chevrolet vega 2300", "cylinders": 4, "weight": 2264.0, "displacement": 140.0, "horsepower": 90.0, "model year": 71, "origin": 1}
+{"acceleration": 14.0, "mpg": 25.0, "car name": "toyota corona", "cylinders": 4, "weight": 2228.0, "displacement": 113.0, "horsepower": 95.0, "model year": 71, "origin": 3}
+{"acceleration": 19.0, "mpg": 25.0, "car name": "ford pinto", "cylinders": 4, "weight": 2046.0, "displacement": 98.0, "model year": 71, "origin": 1}
+{"acceleration": 13.0, "mpg": 19.0, "car name": "amc gremlin", "cylinders": 6, "weight": 2634.0, "displacement": 232.0, "horsepower": 100.0, "model year": 71, "origin": 1}
+{"acceleration": 15.5, "mpg": 16.0, "car name": "plymouth satellite custom", "cylinders": 6, "weight": 3439.0, "displacement": 225.0, "horsepower": 105.0, "model year": 71, "origin": 1}
+{"acceleration": 15.5, "mpg": 17.0, "car name": "chevrolet chevelle malibu", "cylinders": 6, "weight": 3329.0, "displacement": 250.0, "horsepower": 100.0, "model year": 71, "origin": 1}
+{"acceleration": 15.5, "mpg": 19.0, "car name": "ford torino 500", "cylinders": 6, "weight": 3302.0, "displacement": 250.0, "horsepower": 88.0, "model year": 71, "origin": 1}
+{"acceleration": 15.5, "mpg": 18.0, "car name": "amc matador", "cylinders": 6, "weight": 3288.0, "displacement": 232.0, "horsepower": 100.0, "model year": 71, "origin": 1}
+{"acceleration": 12.0, "mpg": 14.0, "car name": "chevrolet impala", "cylinders": 8, "weight": 4209.0, "displacement": 350.0, "horsepower": 165.0, "model year": 71, "origin": 1}
+{"acceleration": 11.5, "mpg": 14.0, "car name": "pontiac catalina brougham", "cylinders": 8, "weight": 4464.0, "displacement": 400.0, "horsepower": 175.0, "model year": 71, "origin": 1}
+{"acceleration": 13.5, "mpg": 14.0, "car name": "ford galaxie 500", "cylinders": 8, "weight": 4154.0, "displacement": 351.0, "horsepower": 153.0, "model year": 71, "origin": 1}
+{"acceleration": 13.0, "mpg": 14.0, "car name": "plymouth fury iii", "cylinders": 8, "weight": 4096.0, "displacement": 318.0, "horsepower": 150.0, "model year": 71, "origin": 1}
+{"acceleration": 11.5, "mpg": 12.0, "car name": "dodge monaco (sw)", "cylinders": 8, "weight": 4955.0, "displacement": 383.0, "horsepower": 180.0, "model year": 71, "origin": 1}
+{"acceleration": 12.0, "mpg": 13.0, "car name": "ford country squire (sw)", "cylinders": 8, "weight": 4746.0, "displacement": 400.0, "horsepower": 170.0, "model year": 71, "origin": 1}
+{"acceleration": 12.0, "mpg": 13.0, "car name": "pontiac safari (sw)", "cylinders": 8, "weight": 5140.0, "displacement": 400.0, "horsepower": 175.0, "model year": 71, "origin": 1}
+{"acceleration": 13.5, "mpg": 18.0, "car name": "amc hornet sportabout (sw)", "cylinders": 6, "weight": 2962.0, "displacement": 258.0, "horsepower": 110.0, "model year": 71, "origin": 1}
+{"acceleration": 19.0, "mpg": 22.0, "car name": "chevrolet vega (sw)", "cylinders": 4, "weight": 2408.0, "displacement": 140.0, "horsepower": 72.0, "model year": 71, "origin": 1}
+{"acceleration": 15.0, "mpg": 19.0, "car name": "pontiac firebird", "cylinders": 6, "weight": 3282.0, "displacement": 250.0, "horsepower": 100.0, "model year": 71, "origin": 1}
+{"acceleration": 14.5, "mpg": 18.0, "car name": "ford mustang", "cylinders": 6, "weight": 3139.0, "displacement": 250.0, "horsepower": 88.0, "model year": 71, "origin": 1}
+{"acceleration": 14.0, "mpg": 23.0, "car name": "mercury capri 2000", "cylinders": 4, "weight": 2220.0, "displacement": 122.0, "horsepower": 86.0, "model year": 71, "origin": 1}
+{"acceleration": 14.0, "mpg": 28.0, "car name": "opel 1900", "cylinders": 4, "weight": 2123.0, "displacement": 116.0, "horsepower": 90.0, "model year": 71, "origin": 2}
+{"acceleration": 19.5, "mpg": 30.0, "car name": "peugeot 304", "cylinders": 4, "weight": 2074.0, "displacement": 79.0, "horsepower": 70.0, "model year": 71, "origin": 2}
+{"acceleration": 14.5, "mpg": 30.0, "car name": "fiat 124b", "cylinders": 4, "weight": 2065.0, "displacement": 88.0, "horsepower": 76.0, "model year": 71, "origin": 2}
+{"acceleration": 19.0, "mpg": 31.0, "car name": "toyota corolla 1200", "cylinders": 4, "weight": 1773.0, "displacement": 71.0, "horsepower": 65.0, "model year": 71, "origin": 3}
+{"acceleration": 18.0, "mpg": 35.0, "car name": "datsun 1200", "cylinders": 4, "weight": 1613.0, "displacement": 72.0, "horsepower": 69.0, "model year": 71, "origin": 3}
+{"acceleration": 19.0, "mpg": 27.0, "car name": "volkswagen model 111", "cylinders": 4, "weight": 1834.0, "displacement": 97.0, "horsepower": 60.0, "model year": 71, "origin": 2}
+{"acceleration": 20.5, "mpg": 26.0, "car name": "plymouth cricket", "cylinders": 4, "weight": 1955.0, "displacement": 91.0, "horsepower": 70.0, "model year": 71, "origin": 1}
+{"acceleration": 15.5, "mpg": 24.0, "car name": "toyota corona hardtop", "cylinders": 4, "weight": 2278.0, "displacement": 113.0, "horsepower": 95.0, "model year": 72, "origin": 3}
+{"acceleration": 17.0, "mpg": 25.0, "car name": "dodge colt hardtop", "cylinders": 4, "weight": 2126.0, "displacement": 97.5, "horsepower": 80.0, "model year": 72, "origin": 1}
+{"acceleration": 23.5, "mpg": 23.0, "car name": "volkswagen type 3", "cylinders": 4, "weight": 2254.0, "displacement": 97.0, "horsepower": 54.0, "model year": 72, "origin": 2}
+{"acceleration": 19.5, "mpg": 20.0, "car name": "chevrolet vega", "cylinders": 4, "weight": 2408.0, "displacement": 140.0, "horsepower": 90.0, "model year": 72, "origin": 1}
+{"acceleration": 16.5, "mpg": 21.0, "car name": "ford pinto runabout", "cylinders": 4, "weight": 2226.0, "displacement": 122.0, "horsepower": 86.0, "model year": 72, "origin": 1}
+{"acceleration": 12.0, "mpg": 13.0, "car name": "chevrolet impala", "cylinders": 8, "weight": 4274.0, "displacement": 350.0, "horsepower": 165.0, "model year": 72, "origin": 1}
+{"acceleration": 12.0, "mpg": 14.0, "car name": "pontiac catalina", "cylinders": 8, "weight": 4385.0, "displacement": 400.0, "horsepower": 175.0, "model year": 72, "origin": 1}
+{"acceleration": 13.5, "mpg": 15.0, "car name": "plymouth fury iii", "cylinders": 8, "weight": 4135.0, "displacement": 318.0, "horsepower": 150.0, "model year": 72, "origin": 1}
+{"acceleration": 13.0, "mpg": 14.0, "car name": "ford galaxie 500", "cylinders": 8, "weight": 4129.0, "displacement": 351.0, "horsepower": 153.0, "model year": 72, "origin": 1}
+{"acceleration": 11.5, "mpg": 17.0, "car name": "amc ambassador sst", "cylinders": 8, "weight": 3672.0, "displacement": 304.0, "horsepower": 150.0, "model year": 72, "origin": 1}
+{"acceleration": 11.0, "mpg": 11.0, "car name": "mercury marquis", "cylinders": 8, "weight": 4633.0, "displacement": 429.0, "horsepower": 208.0, "model year": 72, "origin": 1}
+{"acceleration": 13.5, "mpg": 13.0, "car name": "buick lesabre custom", "cylinders": 8, "weight": 4502.0, "displacement": 350.0, "horsepower": 155.0, "model year": 72, "origin": 1}
+{"acceleration": 13.5, "mpg": 12.0, "car name": "oldsmobile delta 88 royale", "cylinders": 8, "weight": 4456.0, "displacement": 350.0, "horsepower": 160.0, "model year": 72, "origin": 1}
+{"acceleration": 12.5, "mpg": 13.0, "car name": "chrysler newport royal", "cylinders": 8, "weight": 4422.0, "displacement": 400.0, "horsepower": 190.0, "model year": 72, "origin": 1}
+{"acceleration": 13.5, "mpg": 19.0, "car name": "mazda rx2 coupe", "cylinders": 3, "weight": 2330.0, "displacement": 70.0, "horsepower": 97.0, "model year": 72, "origin": 3}
+{"acceleration": 12.5, "mpg": 15.0, "car name": "amc matador (sw)", "cylinders": 8, "weight": 3892.0, "displacement": 304.0, "horsepower": 150.0, "model year": 72, "origin": 1}
+{"acceleration": 14.0, "mpg": 13.0, "car name": "chevrolet chevelle concours (sw)", "cylinders": 8, "weight": 4098.0, "displacement": 307.0, "horsepower": 130.0, "model year": 72, "origin": 1}
+{"acceleration": 16.0, "mpg": 13.0, "car name": "ford gran torino (sw)", "cylinders": 8, "weight": 4294.0, "displacement": 302.0, "horsepower": 140.0, "model year": 72, "origin": 1}
+{"acceleration": 14.0, "mpg": 14.0, "car name": "plymouth satellite custom (sw)", "cylinders": 8, "weight": 4077.0, "displacement": 318.0, "horsepower": 150.0, "model year": 72, "origin": 1}
+{"acceleration": 14.5, "mpg": 18.0, "car name": "volvo 145e (sw)", "cylinders": 4, "weight": 2933.0, "displacement": 121.0, "horsepower": 112.0, "model year": 72, "origin": 2}
+{"acceleration": 18.0, "mpg": 22.0, "car name": "volkswagen 411 (sw)", "cylinders": 4, "weight": 2511.0, "displacement": 121.0, "horsepower": 76.0, "model year": 72, "origin": 2}
+{"acceleration": 19.5, "mpg": 21.0, "car name": "peugeot 504 (sw)", "cylinders": 4, "weight": 2979.0, "displacement": 120.0, "horsepower": 87.0, "model year": 72, "origin": 2}
+{"acceleration": 18.0, "mpg": 26.0, "car name": "renault 12 (sw)", "cylinders": 4, "weight": 2189.0, "displacement": 96.0, "horsepower": 69.0, "model year": 72, "origin": 2}
+{"acceleration": 16.0, "mpg": 22.0, "car name": "ford pinto (sw)", "cylinders": 4, "weight": 2395.0, "displacement": 122.0, "horsepower": 86.0, "model year": 72, "origin": 1}
+{"acceleration": 17.0, "mpg": 28.0, "car name": "datsun 510 (sw)", "cylinders": 4, "weight": 2288.0, "displacement": 97.0, "horsepower": 92.0, "model year": 72, "origin": 3}
+{"acceleration": 14.5, "mpg": 23.0, "car name": "toyouta corona mark ii (sw)", "cylinders": 4, "weight": 2506.0, "displacement": 120.0, "horsepower": 97.0, "model year": 72, "origin": 3}
+{"acceleration": 15.0, "mpg": 28.0, "car name": "dodge colt (sw)", "cylinders": 4, "weight": 2164.0, "displacement": 98.0, "horsepower": 80.0, "model year": 72, "origin": 1}
+{"acceleration": 16.5, "mpg": 27.0, "car name": "toyota corolla 1600 (sw)", "cylinders": 4, "weight": 2100.0, "displacement": 97.0, "horsepower": 88.0, "model year": 72, "origin": 3}
+{"acceleration": 13.0, "mpg": 13.0, "car name": "buick century 350", "cylinders": 8, "weight": 4100.0, "displacement": 350.0, "horsepower": 175.0, "model year": 73, "origin": 1}
+{"acceleration": 11.5, "mpg": 14.0, "car name": "amc matador", "cylinders": 8, "weight": 3672.0, "displacement": 304.0, "horsepower": 150.0, "model year": 73, "origin": 1}
+{"acceleration": 13.0, "mpg": 13.0, "car name": "chevrolet malibu", "cylinders": 8, "weight": 3988.0, "displacement": 350.0, "horsepower": 145.0, "model year": 73, "origin": 1}
+{"acceleration": 14.5, "mpg": 14.0, "car name": "ford gran torino", "cylinders": 8, "weight": 4042.0, "displacement": 302.0, "horsepower": 137.0, "model year": 73, "origin": 1}
+{"acceleration": 12.5, "mpg": 15.0, "car name": "dodge coronet custom", "cylinders": 8, "weight": 3777.0, "displacement": 318.0, "horsepower": 150.0, "model year": 73, "origin": 1}
+{"acceleration": 11.5, "mpg": 12.0, "car name": "mercury marquis brougham", "cylinders": 8, "weight": 4952.0, "displacement": 429.0, "horsepower": 198.0, "model year": 73, "origin": 1}
+{"acceleration": 12.0, "mpg": 13.0, "car name": "chevrolet caprice classic", "cylinders": 8, "weight": 4464.0, "displacement": 400.0, "horsepower": 150.0, "model year": 73, "origin": 1}
+{"acceleration": 13.0, "mpg": 13.0, "car name": "ford ltd", "cylinders": 8, "weight": 4363.0, "displacement": 351.0, "horsepower": 158.0, "model year": 73, "origin": 1}
+{"acceleration": 14.5, "mpg": 14.0, "car name": "plymouth fury gran sedan", "cylinders": 8, "weight": 4237.0, "displacement": 318.0, "horsepower": 150.0, "model year": 73, "origin": 1}
+{"acceleration": 11.0, "mpg": 13.0, "car name": "chrysler new yorker brougham", "cylinders": 8, "weight": 4735.0, "displacement": 440.0, "horsepower": 215.0, "model year": 73, "origin": 1}
+{"acceleration": 11.0, "mpg": 12.0, "car name": "buick electra 225 custom", "cylinders": 8, "weight": 4951.0, "displacement": 455.0, "horsepower": 225.0, "model year": 73, "origin": 1}
+{"acceleration": 11.0, "mpg": 13.0, "car name": "amc ambassador brougham", "cylinders": 8, "weight": 3821.0, "displacement": 360.0, "horsepower": 175.0, "model year": 73, "origin": 1}
+{"acceleration": 16.5, "mpg": 18.0, "car name": "plymouth valiant", "cylinders": 6, "weight": 3121.0, "displacement": 225.0, "horsepower": 105.0, "model year": 73, "origin": 1}
+{"acceleration": 18.0, "mpg": 16.0, "car name": "chevrolet nova custom", "cylinders": 6, "weight": 3278.0, "displacement": 250.0, "horsepower": 100.0, "model year": 73, "origin": 1}
+{"acceleration": 16.0, "mpg": 18.0, "car name": "amc hornet", "cylinders": 6, "weight": 2945.0, "displacement": 232.0, "horsepower": 100.0, "model year": 73, "origin": 1}
+{"acceleration": 16.5, "mpg": 18.0, "car name": "ford maverick", "cylinders": 6, "weight": 3021.0, "displacement": 250.0, "horsepower": 88.0, "model year": 73, "origin": 1}
+{"acceleration": 16.0, "mpg": 23.0, "car name": "plymouth duster", "cylinders": 6, "weight": 2904.0, "displacement": 198.0, "horsepower": 95.0, "model year": 73, "origin": 1}
+{"acceleration": 21.0, "mpg": 26.0, "car name": "volkswagen super beetle", "cylinders": 4, "weight": 1950.0, "displacement": 97.0, "horsepower": 46.0, "model year": 73, "origin": 2}
+{"acceleration": 14.0, "mpg": 11.0, "car name": "chevrolet impala", "cylinders": 8, "weight": 4997.0, "displacement": 400.0, "horsepower": 150.0, "model year": 73, "origin": 1}
+{"acceleration": 12.5, "mpg": 12.0, "car name": "ford country", "cylinders": 8, "weight": 4906.0, "displacement": 400.0, "horsepower": 167.0, "model year": 73, "origin": 1}
+{"acceleration": 13.0, "mpg": 13.0, "car name": "plymouth custom suburb", "cylinders": 8, "weight": 4654.0, "displacement": 360.0, "horsepower": 170.0, "model year": 73, "origin": 1}
+{"acceleration": 12.5, "mpg": 12.0, "car name": "oldsmobile vista cruiser", "cylinders": 8, "weight": 4499.0, "displacement": 350.0, "horsepower": 180.0, "model year": 73, "origin": 1}
+{"acceleration": 15.0, "mpg": 18.0, "car name": "amc gremlin", "cylinders": 6, "weight": 2789.0, "displacement": 232.0, "horsepower": 100.0, "model year": 73, "origin": 1}
+{"acceleration": 19.0, "mpg": 20.0, "car name": "toyota carina", "cylinders": 4, "weight": 2279.0, "displacement": 97.0, "horsepower": 88.0, "model year": 73, "origin": 3}
+{"acceleration": 19.5, "mpg": 21.0, "car name": "chevrolet vega", "cylinders": 4, "weight": 2401.0, "displacement": 140.0, "horsepower": 72.0, "model year": 73, "origin": 1}
+{"acceleration": 16.5, "mpg": 22.0, "car name": "datsun 610", "cylinders": 4, "weight": 2379.0, "displacement": 108.0, "horsepower": 94.0, "model year": 73, "origin": 3}
+{"acceleration": 13.5, "mpg": 18.0, "car name": "maxda rx3", "cylinders": 3, "weight": 2124.0, "displacement": 70.0, "horsepower": 90.0, "model year": 73, "origin": 3}
+{"acceleration": 18.5, "mpg": 19.0, "car name": "ford pinto", "cylinders": 4, "weight": 2310.0, "displacement": 122.0, "horsepower": 85.0, "model year": 73, "origin": 1}
+{"acceleration": 14.0, "mpg": 21.0, "car name": "mercury capri v6", "cylinders": 6, "weight": 2472.0, "displacement": 155.0, "horsepower": 107.0, "model year": 73, "origin": 1}
+{"acceleration": 15.5, "mpg": 26.0, "car name": "fiat 124 sport coupe", "cylinders": 4, "weight": 2265.0, "displacement": 98.0, "horsepower": 90.0, "model year": 73, "origin": 2}
+{"acceleration": 13.0, "mpg": 15.0, "car name": "chevrolet monte carlo s", "cylinders": 8, "weight": 4082.0, "displacement": 350.0, "horsepower": 145.0, "model year": 73, "origin": 1}
+{"acceleration": 9.5, "mpg": 16.0, "car name": "pontiac grand prix", "cylinders": 8, "weight": 4278.0, "displacement": 400.0, "horsepower": 230.0, "model year": 73, "origin": 1}
+{"acceleration": 19.5, "mpg": 29.0, "car name": "fiat 128", "cylinders": 4, "weight": 1867.0, "displacement": 68.0, "horsepower": 49.0, "model year": 73, "origin": 2}
+{"acceleration": 15.5, "mpg": 24.0, "car name": "opel manta", "cylinders": 4, "weight": 2158.0, "displacement": 116.0, "horsepower": 75.0, "model year": 73, "origin": 2}
+{"acceleration": 14.0, "mpg": 20.0, "car name": "audi 100ls", "cylinders": 4, "weight": 2582.0, "displacement": 114.0, "horsepower": 91.0, "model year": 73, "origin": 2}
+{"acceleration": 15.5, "mpg": 19.0, "car name": "volvo 144ea", "cylinders": 4, "weight": 2868.0, "displacement": 121.0, "horsepower": 112.0, "model year": 73, "origin": 2}
+{"acceleration": 11.0, "mpg": 15.0, "car name": "dodge dart custom", "cylinders": 8, "weight": 3399.0, "displacement": 318.0, "horsepower": 150.0, "model year": 73, "origin": 1}
+{"acceleration": 14.0, "mpg": 24.0, "car name": "saab 99le", "cylinders": 4, "weight": 2660.0, "displacement": 121.0, "horsepower": 110.0, "model year": 73, "origin": 2}
+{"acceleration": 13.5, "mpg": 20.0, "car name": "toyota mark ii", "cylinders": 6, "weight": 2807.0, "displacement": 156.0, "horsepower": 122.0, "model year": 73, "origin": 3}
+{"acceleration": 11.0, "mpg": 11.0, "car name": "oldsmobile omega", "cylinders": 8, "weight": 3664.0, "displacement": 350.0, "horsepower": 180.0, "model year": 73, "origin": 1}
+{"acceleration": 16.5, "mpg": 20.0, "car name": "plymouth duster", "cylinders": 6, "weight": 3102.0, "displacement": 198.0, "horsepower": 95.0, "model year": 74, "origin": 1}
+{"acceleration": 17.0, "mpg": 21.0, "car name": "ford maverick", "cylinders": 6, "weight": 2875.0, "displacement": 200.0, "model year": 74, "origin": 1}
+{"acceleration": 16.0, "mpg": 19.0, "car name": "amc hornet", "cylinders": 6, "weight": 2901.0, "displacement": 232.0, "horsepower": 100.0, "model year": 74, "origin": 1}
+{"acceleration": 17.0, "mpg": 15.0, "car name": "chevrolet nova", "cylinders": 6, "weight": 3336.0, "displacement": 250.0, "horsepower": 100.0, "model year": 74, "origin": 1}
+{"acceleration": 19.0, "mpg": 31.0, "car name": "datsun b210", "cylinders": 4, "weight": 1950.0, "displacement": 79.0, "horsepower": 67.0, "model year": 74, "origin": 3}
+{"acceleration": 16.5, "mpg": 26.0, "car name": "ford pinto", "cylinders": 4, "weight": 2451.0, "displacement": 122.0, "horsepower": 80.0, "model year": 74, "origin": 1}
+{"acceleration": 21.0, "mpg": 32.0, "car name": "toyota corolla 1200", "cylinders": 4, "weight": 1836.0, "displacement": 71.0, "horsepower": 65.0, "model year": 74, "origin": 3}
+{"acceleration": 17.0, "mpg": 25.0, "car name": "chevrolet vega", "cylinders": 4, "weight": 2542.0, "displacement": 140.0, "horsepower": 75.0, "model year": 74, "origin": 1}
+{"acceleration": 17.0, "mpg": 16.0, "car name": "chevrolet chevelle malibu classic", "cylinders": 6, "weight": 3781.0, "displacement": 250.0, "horsepower": 100.0, "model year": 74, "origin": 1}
+{"acceleration": 18.0, "mpg": 16.0, "car name": "amc matador", "cylinders": 6, "weight": 3632.0, "displacement": 258.0, "horsepower": 110.0, "model year": 74, "origin": 1}
+{"acceleration": 16.5, "mpg": 18.0, "car name": "plymouth satellite sebring", "cylinders": 6, "weight": 3613.0, "displacement": 225.0, "horsepower": 105.0, "model year": 74, "origin": 1}
+{"acceleration": 14.0, "mpg": 16.0, "car name": "ford gran torino", "cylinders": 8, "weight": 4141.0, "displacement": 302.0, "horsepower": 140.0, "model year": 74, "origin": 1}
+{"acceleration": 14.5, "mpg": 13.0, "car name": "buick century luxus (sw)", "cylinders": 8, "weight": 4699.0, "displacement": 350.0, "horsepower": 150.0, "model year": 74, "origin": 1}
+{"acceleration": 13.5, "mpg": 14.0, "car name": "dodge coronet custom (sw)", "cylinders": 8, "weight": 4457.0, "displacement": 318.0, "horsepower": 150.0, "model year": 74, "origin": 1}
+{"acceleration": 16.0, "mpg": 14.0, "car name": "ford gran torino (sw)", "cylinders": 8, "weight": 4638.0, "displacement": 302.0, "horsepower": 140.0, "model year": 74, "origin": 1}
+{"acceleration": 15.5, "mpg": 14.0, "car name": "amc matador (sw)", "cylinders": 8, "weight": 4257.0, "displacement": 304.0, "horsepower": 150.0, "model year": 74, "origin": 1}
+{"acceleration": 16.5, "mpg": 29.0, "car name": "audi fox", "cylinders": 4, "weight": 2219.0, "displacement": 98.0, "horsepower": 83.0, "model year": 74, "origin": 2}
+{"acceleration": 15.5, "mpg": 26.0, "car name": "volkswagen dasher", "cylinders": 4, "weight": 1963.0, "displacement": 79.0, "horsepower": 67.0, "model year": 74, "origin": 2}
+{"acceleration": 14.5, "mpg": 26.0, "car name": "opel manta", "cylinders": 4, "weight": 2300.0, "displacement": 97.0, "horsepower": 78.0, "model year": 74, "origin": 2}
+{"acceleration": 16.5, "mpg": 31.0, "car name": "toyota corona", "cylinders": 4, "weight": 1649.0, "displacement": 76.0, "horsepower": 52.0, "model year": 74, "origin": 3}
+{"acceleration": 19.0, "mpg": 32.0, "car name": "datsun 710", "cylinders": 4, "weight": 2003.0, "displacement": 83.0, "horsepower": 61.0, "model year": 74, "origin": 3}
+{"acceleration": 14.5, "mpg": 28.0, "car name": "dodge colt", "cylinders": 4, "weight": 2125.0, "displacement": 90.0, "horsepower": 75.0, "model year": 74, "origin": 1}
+{"acceleration": 15.5, "mpg": 24.0, "car name": "fiat 128", "cylinders": 4, "weight": 2108.0, "displacement": 90.0, "horsepower": 75.0, "model year": 74, "origin": 2}
+{"acceleration": 14.0, "mpg": 26.0, "car name": "fiat 124 tc", "cylinders": 4, "weight": 2246.0, "displacement": 116.0, "horsepower": 75.0, "model year": 74, "origin": 2}
+{"acceleration": 15.0, "mpg": 24.0, "car name": "honda civic", "cylinders": 4, "weight": 2489.0, "displacement": 120.0, "horsepower": 97.0, "model year": 74, "origin": 3}
+{"acceleration": 15.5, "mpg": 26.0, "car name": "subaru", "cylinders": 4, "weight": 2391.0, "displacement": 108.0, "horsepower": 93.0, "model year": 74, "origin": 3}
+{"acceleration": 16.0, "mpg": 31.0, "car name": "fiat x1.9", "cylinders": 4, "weight": 2000.0, "displacement": 79.0, "horsepower": 67.0, "model year": 74, "origin": 2}
+{"acceleration": 16.0, "mpg": 19.0, "car name": "plymouth valiant custom", "cylinders": 6, "weight": 3264.0, "displacement": 225.0, "horsepower": 95.0, "model year": 75, "origin": 1}
+{"acceleration": 16.0, "mpg": 18.0, "car name": "chevrolet nova", "cylinders": 6, "weight": 3459.0, "displacement": 250.0, "horsepower": 105.0, "model year": 75, "origin": 1}
+{"acceleration": 21.0, "mpg": 15.0, "car name": "mercury monarch", "cylinders": 6, "weight": 3432.0, "displacement": 250.0, "horsepower": 72.0, "model year": 75, "origin": 1}
+{"acceleration": 19.5, "mpg": 15.0, "car name": "ford maverick", "cylinders": 6, "weight": 3158.0, "displacement": 250.0, "horsepower": 72.0, "model year": 75, "origin": 1}
+{"acceleration": 11.5, "mpg": 16.0, "car name": "pontiac catalina", "cylinders": 8, "weight": 4668.0, "displacement": 400.0, "horsepower": 170.0, "model year": 75, "origin": 1}
+{"acceleration": 14.0, "mpg": 15.0, "car name": "chevrolet bel air", "cylinders": 8, "weight": 4440.0, "displacement": 350.0, "horsepower": 145.0, "model year": 75, "origin": 1}
+{"acceleration": 14.5, "mpg": 16.0, "car name": "plymouth grand fury", "cylinders": 8, "weight": 4498.0, "displacement": 318.0, "horsepower": 150.0, "model year": 75, "origin": 1}
+{"acceleration": 13.5, "mpg": 14.0, "car name": "ford ltd", "cylinders": 8, "weight": 4657.0, "displacement": 351.0, "horsepower": 148.0, "model year": 75, "origin": 1}
+{"acceleration": 21.0, "mpg": 17.0, "car name": "buick century", "cylinders": 6, "weight": 3907.0, "displacement": 231.0, "horsepower": 110.0, "model year": 75, "origin": 1}
+{"acceleration": 18.5, "mpg": 16.0, "car name": "chevroelt chevelle malibu", "cylinders": 6, "weight": 3897.0, "displacement": 250.0, "horsepower": 105.0, "model year": 75, "origin": 1}
+{"acceleration": 19.0, "mpg": 15.0, "car name": "amc matador", "cylinders": 6, "weight": 3730.0, "displacement": 258.0, "horsepower": 110.0, "model year": 75, "origin": 1}
+{"acceleration": 19.0, "mpg": 18.0, "car name": "plymouth fury", "cylinders": 6, "weight": 3785.0, "displacement": 225.0, "horsepower": 95.0, "model year": 75, "origin": 1}
+{"acceleration": 15.0, "mpg": 21.0, "car name": "buick skyhawk", "cylinders": 6, "weight": 3039.0, "displacement": 231.0, "horsepower": 110.0, "model year": 75, "origin": 1}
+{"acceleration": 13.5, "mpg": 20.0, "car name": "chevrolet monza 2+2", "cylinders": 8, "weight": 3221.0, "displacement": 262.0, "horsepower": 110.0, "model year": 75, "origin": 1}
+{"acceleration": 12.0, "mpg": 13.0, "car name": "ford mustang ii", "cylinders": 8, "weight": 3169.0, "displacement": 302.0, "horsepower": 129.0, "model year": 75, "origin": 1}
+{"acceleration": 16.0, "mpg": 29.0, "car name": "toyota corolla", "cylinders": 4, "weight": 2171.0, "displacement": 97.0, "horsepower": 75.0, "model year": 75, "origin": 3}
+{"acceleration": 17.0, "mpg": 23.0, "car name": "ford pinto", "cylinders": 4, "weight": 2639.0, "displacement": 140.0, "horsepower": 83.0, "model year": 75, "origin": 1}
+{"acceleration": 16.0, "mpg": 20.0, "car name": "amc gremlin", "cylinders": 6, "weight": 2914.0, "displacement": 232.0, "horsepower": 100.0, "model year": 75, "origin": 1}
+{"acceleration": 18.5, "mpg": 23.0, "car name": "pontiac astro", "cylinders": 4, "weight": 2592.0, "displacement": 140.0, "horsepower": 78.0, "model year": 75, "origin": 1}
+{"acceleration": 13.5, "mpg": 24.0, "car name": "toyota corona", "cylinders": 4, "weight": 2702.0, "displacement": 134.0, "horsepower": 96.0, "model year": 75, "origin": 3}
+{"acceleration": 16.5, "mpg": 25.0, "car name": "volkswagen dasher", "cylinders": 4, "weight": 2223.0, "displacement": 90.0, "horsepower": 71.0, "model year": 75, "origin": 2}
+{"acceleration": 17.0, "mpg": 24.0, "car name": "datsun 710", "cylinders": 4, "weight": 2545.0, "displacement": 119.0, "horsepower": 97.0, "model year": 75, "origin": 3}
+{"acceleration": 14.5, "mpg": 18.0, "car name": "ford pinto", "cylinders": 6, "weight": 2984.0, "displacement": 171.0, "horsepower": 97.0, "model year": 75, "origin": 1}
+{"acceleration": 14.0, "mpg": 29.0, "car name": "volkswagen rabbit", "cylinders": 4, "weight": 1937.0, "displacement": 90.0, "horsepower": 70.0, "model year": 75, "origin": 2}
+{"acceleration": 17.0, "mpg": 19.0, "car name": "amc pacer", "cylinders": 6, "weight": 3211.0, "displacement": 232.0, "horsepower": 90.0, "model year": 75, "origin": 1}
+{"acceleration": 15.0, "mpg": 23.0, "car name": "audi 100ls", "cylinders": 4, "weight": 2694.0, "displacement": 115.0, "horsepower": 95.0, "model year": 75, "origin": 2}
+{"acceleration": 17.0, "mpg": 23.0, "car name": "peugeot 504", "cylinders": 4, "weight": 2957.0, "displacement": 120.0, "horsepower": 88.0, "model year": 75, "origin": 2}
+{"acceleration": 14.5, "mpg": 22.0, "car name": "volvo 244dl", "cylinders": 4, "weight": 2945.0, "displacement": 121.0, "horsepower": 98.0, "model year": 75, "origin": 2}
+{"acceleration": 13.5, "mpg": 25.0, "car name": "saab 99le", "cylinders": 4, "weight": 2671.0, "displacement": 121.0, "horsepower": 115.0, "model year": 75, "origin": 2}
+{"acceleration": 17.5, "mpg": 33.0, "car name": "honda civic cvcc", "cylinders": 4, "weight": 1795.0, "displacement": 91.0, "horsepower": 53.0, "model year": 75, "origin": 3}
+{"acceleration": 15.5, "mpg": 28.0, "car name": "fiat 131", "cylinders": 4, "weight": 2464.0, "displacement": 107.0, "horsepower": 86.0, "model year": 76, "origin": 2}
+{"acceleration": 16.9, "mpg": 25.0, "car name": "opel 1900", "cylinders": 4, "weight": 2220.0, "displacement": 116.0, "horsepower": 81.0, "model year": 76, "origin": 2}
+{"acceleration": 14.9, "mpg": 25.0, "car name": "capri ii", "cylinders": 4, "weight": 2572.0, "displacement": 140.0, "horsepower": 92.0, "model year": 76, "origin": 1}
+{"acceleration": 17.7, "mpg": 26.0, "car name": "dodge colt", "cylinders": 4, "weight": 2255.0, "displacement": 98.0, "horsepower": 79.0, "model year": 76, "origin": 1}
+{"acceleration": 15.3, "mpg": 27.0, "car name": "renault 12tl", "cylinders": 4, "weight": 2202.0, "displacement": 101.0, "horsepower": 83.0, "model year": 76, "origin": 2}
+{"acceleration": 13.0, "mpg": 17.5, "car name": "chevrolet chevelle malibu classic", "cylinders": 8, "weight": 4215.0, "displacement": 305.0, "horsepower": 140.0, "model year": 76, "origin": 1}
+{"acceleration": 13.0, "mpg": 16.0, "car name": "dodge coronet brougham", "cylinders": 8, "weight": 4190.0, "displacement": 318.0, "horsepower": 150.0, "model year": 76, "origin": 1}
+{"acceleration": 13.9, "mpg": 15.5, "car name": "amc matador", "cylinders": 8, "weight": 3962.0, "displacement": 304.0, "horsepower": 120.0, "model year": 76, "origin": 1}
+{"acceleration": 12.8, "mpg": 14.5, "car name": "ford gran torino", "cylinders": 8, "weight": 4215.0, "displacement": 351.0, "horsepower": 152.0, "model year": 76, "origin": 1}
+{"acceleration": 15.4, "mpg": 22.0, "car name": "plymouth valiant", "cylinders": 6, "weight": 3233.0, "displacement": 225.0, "horsepower": 100.0, "model year": 76, "origin": 1}
+{"acceleration": 14.5, "mpg": 22.0, "car name": "chevrolet nova", "cylinders": 6, "weight": 3353.0, "displacement": 250.0, "horsepower": 105.0, "model year": 76, "origin": 1}
+{"acceleration": 17.6, "mpg": 24.0, "car name": "ford maverick", "cylinders": 6, "weight": 3012.0, "displacement": 200.0, "horsepower": 81.0, "model year": 76, "origin": 1}
+{"acceleration": 17.6, "mpg": 22.5, "car name": "amc hornet", "cylinders": 6, "weight": 3085.0, "displacement": 232.0, "horsepower": 90.0, "model year": 76, "origin": 1}
+{"acceleration": 22.2, "mpg": 29.0, "car name": "chevrolet chevette", "cylinders": 4, "weight": 2035.0, "displacement": 85.0, "horsepower": 52.0, "model year": 76, "origin": 1}
+{"acceleration": 22.1, "mpg": 24.5, "car name": "chevrolet woody", "cylinders": 4, "weight": 2164.0, "displacement": 98.0, "horsepower": 60.0, "model year": 76, "origin": 1}
+{"acceleration": 14.2, "mpg": 29.0, "car name": "vw rabbit", "cylinders": 4, "weight": 1937.0, "displacement": 90.0, "horsepower": 70.0, "model year": 76, "origin": 2}
+{"acceleration": 17.4, "mpg": 33.0, "car name": "honda civic", "cylinders": 4, "weight": 1795.0, "displacement": 91.0, "horsepower": 53.0, "model year": 76, "origin": 3}
+{"acceleration": 17.7, "mpg": 20.0, "car name": "dodge aspen se", "cylinders": 6, "weight": 3651.0, "displacement": 225.0, "horsepower": 100.0, "model year": 76, "origin": 1}
+{"acceleration": 21.0, "mpg": 18.0, "car name": "ford granada ghia", "cylinders": 6, "weight": 3574.0, "displacement": 250.0, "horsepower": 78.0, "model year": 76, "origin": 1}
+{"acceleration": 16.2, "mpg": 18.5, "car name": "pontiac ventura sj", "cylinders": 6, "weight": 3645.0, "displacement": 250.0, "horsepower": 110.0, "model year": 76, "origin": 1}
+{"acceleration": 17.8, "mpg": 17.5, "car name": "amc pacer d/l", "cylinders": 6, "weight": 3193.0, "displacement": 258.0, "horsepower": 95.0, "model year": 76, "origin": 1}
+{"acceleration": 12.2, "mpg": 29.5, "car name": "volkswagen rabbit", "cylinders": 4, "weight": 1825.0, "displacement": 97.0, "horsepower": 71.0, "model year": 76, "origin": 2}
+{"acceleration": 17.0, "mpg": 32.0, "car name": "datsun b-210", "cylinders": 4, "weight": 1990.0, "displacement": 85.0, "horsepower": 70.0, "model year": 76, "origin": 3}
+{"acceleration": 16.4, "mpg": 28.0, "car name": "toyota corolla", "cylinders": 4, "weight": 2155.0, "displacement": 97.0, "horsepower": 75.0, "model year": 76, "origin": 3}
+{"acceleration": 13.6, "mpg": 26.5, "car name": "ford pinto", "cylinders": 4, "weight": 2565.0, "displacement": 140.0, "horsepower": 72.0, "model year": 76, "origin": 1}
+{"acceleration": 15.7, "mpg": 20.0, "car name": "volvo 245", "cylinders": 4, "weight": 3150.0, "displacement": 130.0, "horsepower": 102.0, "model year": 76, "origin": 2}
+{"acceleration": 13.2, "mpg": 13.0, "car name": "plymouth volare premier v8", "cylinders": 8, "weight": 3940.0, "displacement": 318.0, "horsepower": 150.0, "model year": 76, "origin": 1}
+{"acceleration": 21.9, "mpg": 19.0, "car name": "peugeot 504", "cylinders": 4, "weight": 3270.0, "displacement": 120.0, "horsepower": 88.0, "model year": 76, "origin": 2}
+{"acceleration": 15.5, "mpg": 19.0, "car name": "toyota mark ii", "cylinders": 6, "weight": 2930.0, "displacement": 156.0, "horsepower": 108.0, "model year": 76, "origin": 3}
+{"acceleration": 16.7, "mpg": 16.5, "car name": "mercedes-benz 280s", "cylinders": 6, "weight": 3820.0, "displacement": 168.0, "horsepower": 120.0, "model year": 76, "origin": 2}
+{"acceleration": 12.1, "mpg": 16.5, "car name": "cadillac seville", "cylinders": 8, "weight": 4380.0, "displacement": 350.0, "horsepower": 180.0, "model year": 76, "origin": 1}
+{"acceleration": 12.0, "mpg": 13.0, "car name": "chevy c10", "cylinders": 8, "weight": 4055.0, "displacement": 350.0, "horsepower": 145.0, "model year": 76, "origin": 1}
+{"acceleration": 15.0, "mpg": 13.0, "car name": "ford f108", "cylinders": 8, "weight": 3870.0, "displacement": 302.0, "horsepower": 130.0, "model year": 76, "origin": 1}
+{"acceleration": 14.0, "mpg": 13.0, "car name": "dodge d100", "cylinders": 8, "weight": 3755.0, "displacement": 318.0, "horsepower": 150.0, "model year": 76, "origin": 1}
+{"acceleration": 18.5, "mpg": 31.5, "car name": "honda accord cvcc", "cylinders": 4, "weight": 2045.0, "displacement": 98.0, "horsepower": 68.0, "model year": 77, "origin": 3}
+{"acceleration": 14.8, "mpg": 30.0, "car name": "buick opel isuzu deluxe", "cylinders": 4, "weight": 2155.0, "displacement": 111.0, "horsepower": 80.0, "model year": 77, "origin": 1}
+{"acceleration": 18.6, "mpg": 36.0, "car name": "renault 5 gtl", "cylinders": 4, "weight": 1825.0, "displacement": 79.0, "horsepower": 58.0, "model year": 77, "origin": 2}
+{"acceleration": 15.5, "mpg": 25.5, "car name": "plymouth arrow gs", "cylinders": 4, "weight": 2300.0, "displacement": 122.0, "horsepower": 96.0, "model year": 77, "origin": 1}
+{"acceleration": 16.8, "mpg": 33.5, "car name": "datsun f-10 hatchback", "cylinders": 4, "weight": 1945.0, "displacement": 85.0, "horsepower": 70.0, "model year": 77, "origin": 3}
+{"acceleration": 12.5, "mpg": 17.5, "car name": "chevrolet caprice classic", "cylinders": 8, "weight": 3880.0, "displacement": 305.0, "horsepower": 145.0, "model year": 77, "origin": 1}
+{"acceleration": 19.0, "mpg": 17.0, "car name": "oldsmobile cutlass supreme", "cylinders": 8, "weight": 4060.0, "displacement": 260.0, "horsepower": 110.0, "model year": 77, "origin": 1}
+{"acceleration": 13.7, "mpg": 15.5, "car name": "dodge monaco brougham", "cylinders": 8, "weight": 4140.0, "displacement": 318.0, "horsepower": 145.0, "model year": 77, "origin": 1}
+{"acceleration": 14.9, "mpg": 15.0, "car name": "mercury cougar brougham", "cylinders": 8, "weight": 4295.0, "displacement": 302.0, "horsepower": 130.0, "model year": 77, "origin": 1}
+{"acceleration": 16.4, "mpg": 17.5, "car name": "chevrolet concours", "cylinders": 6, "weight": 3520.0, "displacement": 250.0, "horsepower": 110.0, "model year": 77, "origin": 1}
+{"acceleration": 16.9, "mpg": 20.5, "car name": "buick skylark", "cylinders": 6, "weight": 3425.0, "displacement": 231.0, "horsepower": 105.0, "model year": 77, "origin": 1}
+{"acceleration": 17.7, "mpg": 19.0, "car name": "plymouth volare custom", "cylinders": 6, "weight": 3630.0, "displacement": 225.0, "horsepower": 100.0, "model year": 77, "origin": 1}
+{"acceleration": 19.0, "mpg": 18.5, "car name": "ford granada", "cylinders": 6, "weight": 3525.0, "displacement": 250.0, "horsepower": 98.0, "model year": 77, "origin": 1}
+{"acceleration": 11.1, "mpg": 16.0, "car name": "pontiac grand prix lj", "cylinders": 8, "weight": 4220.0, "displacement": 400.0, "horsepower": 180.0, "model year": 77, "origin": 1}
+{"acceleration": 11.4, "mpg": 15.5, "car name": "chevrolet monte carlo landau", "cylinders": 8, "weight": 4165.0, "displacement": 350.0, "horsepower": 170.0, "model year": 77, "origin": 1}
+{"acceleration": 12.2, "mpg": 15.5, "car name": "chrysler cordoba", "cylinders": 8, "weight": 4325.0, "displacement": 400.0, "horsepower": 190.0, "model year": 77, "origin": 1}
+{"acceleration": 14.5, "mpg": 16.0, "car name": "ford thunderbird", "cylinders": 8, "weight": 4335.0, "displacement": 351.0, "horsepower": 149.0, "model year": 77, "origin": 1}
+{"acceleration": 14.5, "mpg": 29.0, "car name": "volkswagen rabbit custom", "cylinders": 4, "weight": 1940.0, "displacement": 97.0, "horsepower": 78.0, "model year": 77, "origin": 2}
+{"acceleration": 16.0, "mpg": 24.5, "car name": "pontiac sunbird coupe", "cylinders": 4, "weight": 2740.0, "displacement": 151.0, "horsepower": 88.0, "model year": 77, "origin": 1}
+{"acceleration": 18.2, "mpg": 26.0, "car name": "toyota corolla liftback", "cylinders": 4, "weight": 2265.0, "displacement": 97.0, "horsepower": 75.0, "model year": 77, "origin": 3}
+{"acceleration": 15.8, "mpg": 25.5, "car name": "ford mustang ii 2+2", "cylinders": 4, "weight": 2755.0, "displacement": 140.0, "horsepower": 89.0, "model year": 77, "origin": 1}
+{"acceleration": 17.0, "mpg": 30.5, "car name": "chevrolet chevette", "cylinders": 4, "weight": 2051.0, "displacement": 98.0, "horsepower": 63.0, "model year": 77, "origin": 1}
+{"acceleration": 15.9, "mpg": 33.5, "car name": "dodge colt m/m", "cylinders": 4, "weight": 2075.0, "displacement": 98.0, "horsepower": 83.0, "model year": 77, "origin": 1}
+{"acceleration": 16.4, "mpg": 30.0, "car name": "subaru dl", "cylinders": 4, "weight": 1985.0, "displacement": 97.0, "horsepower": 67.0, "model year": 77, "origin": 3}
+{"acceleration": 14.1, "mpg": 30.5, "car name": "volkswagen dasher", "cylinders": 4, "weight": 2190.0, "displacement": 97.0, "horsepower": 78.0, "model year": 77, "origin": 2}
+{"acceleration": 14.5, "mpg": 22.0, "car name": "datsun 810", "cylinders": 6, "weight": 2815.0, "displacement": 146.0, "horsepower": 97.0, "model year": 77, "origin": 3}
+{"acceleration": 12.8, "mpg": 21.5, "car name": "bmw 320i", "cylinders": 4, "weight": 2600.0, "displacement": 121.0, "horsepower": 110.0, "model year": 77, "origin": 2}
+{"acceleration": 13.5, "mpg": 21.5, "car name": "mazda rx-4", "cylinders": 3, "weight": 2720.0, "displacement": 80.0, "horsepower": 110.0, "model year": 77, "origin": 3}
+{"acceleration": 21.5, "mpg": 43.1, "car name": "volkswagen rabbit custom diesel", "cylinders": 4, "weight": 1985.0, "displacement": 90.0, "horsepower": 48.0, "model year": 78, "origin": 2}
+{"acceleration": 14.4, "mpg": 36.1, "car name": "ford fiesta", "cylinders": 4, "weight": 1800.0, "displacement": 98.0, "horsepower": 66.0, "model year": 78, "origin": 1}
+{"acceleration": 19.4, "mpg": 32.8, "car name": "mazda glc deluxe", "cylinders": 4, "weight": 1985.0, "displacement": 78.0, "horsepower": 52.0, "model year": 78, "origin": 3}
+{"acceleration": 18.6, "mpg": 39.4, "car name": "datsun b210 gx", "cylinders": 4, "weight": 2070.0, "displacement": 85.0, "horsepower": 70.0, "model year": 78, "origin": 3}
+{"acceleration": 16.4, "mpg": 36.1, "car name": "honda civic cvcc", "cylinders": 4, "weight": 1800.0, "displacement": 91.0, "horsepower": 60.0, "model year": 78, "origin": 3}
+{"acceleration": 15.5, "mpg": 19.9, "car name": "oldsmobile cutlass salon brougham", "cylinders": 8, "weight": 3365.0, "displacement": 260.0, "horsepower": 110.0, "model year": 78, "origin": 1}
+{"acceleration": 13.2, "mpg": 19.4, "car name": "dodge diplomat", "cylinders": 8, "weight": 3735.0, "displacement": 318.0, "horsepower": 140.0, "model year": 78, "origin": 1}
+{"acceleration": 12.8, "mpg": 20.2, "car name": "mercury monarch ghia", "cylinders": 8, "weight": 3570.0, "displacement": 302.0, "horsepower": 139.0, "model year": 78, "origin": 1}
+{"acceleration": 19.2, "mpg": 19.2, "car name": "pontiac phoenix lj", "cylinders": 6, "weight": 3535.0, "displacement": 231.0, "horsepower": 105.0, "model year": 78, "origin": 1}
+{"acceleration": 18.2, "mpg": 20.5, "car name": "chevrolet malibu", "cylinders": 6, "weight": 3155.0, "displacement": 200.0, "horsepower": 95.0, "model year": 78, "origin": 1}
+{"acceleration": 15.8, "mpg": 20.2, "car name": "ford fairmont (auto)", "cylinders": 6, "weight": 2965.0, "displacement": 200.0, "horsepower": 85.0, "model year": 78, "origin": 1}
+{"acceleration": 15.4, "mpg": 25.1, "car name": "ford fairmont (man)", "cylinders": 4, "weight": 2720.0, "displacement": 140.0, "horsepower": 88.0, "model year": 78, "origin": 1}
+{"acceleration": 17.2, "mpg": 20.5, "car name": "plymouth volare", "cylinders": 6, "weight": 3430.0, "displacement": 225.0, "horsepower": 100.0, "model year": 78, "origin": 1}
+{"acceleration": 17.2, "mpg": 19.4, "car name": "amc concord", "cylinders": 6, "weight": 3210.0, "displacement": 232.0, "horsepower": 90.0, "model year": 78, "origin": 1}
+{"acceleration": 15.8, "mpg": 20.6, "car name": "buick century special", "cylinders": 6, "weight": 3380.0, "displacement": 231.0, "horsepower": 105.0, "model year": 78, "origin": 1}
+{"acceleration": 16.7, "mpg": 20.8, "car name": "mercury zephyr", "cylinders": 6, "weight": 3070.0, "displacement": 200.0, "horsepower": 85.0, "model year": 78, "origin": 1}
+{"acceleration": 18.7, "mpg": 18.6, "car name": "dodge aspen", "cylinders": 6, "weight": 3620.0, "displacement": 225.0, "horsepower": 110.0, "model year": 78, "origin": 1}
+{"acceleration": 15.1, "mpg": 18.1, "car name": "amc concord d/l", "cylinders": 6, "weight": 3410.0, "displacement": 258.0, "horsepower": 120.0, "model year": 78, "origin": 1}
+{"acceleration": 13.2, "mpg": 19.2, "car name": "chevrolet monte carlo landau", "cylinders": 8, "weight": 3425.0, "displacement": 305.0, "horsepower": 145.0, "model year": 78, "origin": 1}
+{"acceleration": 13.4, "mpg": 17.7, "car name": "buick regal sport coupe (turbo)", "cylinders": 6, "weight": 3445.0, "displacement": 231.0, "horsepower": 165.0, "model year": 78, "origin": 1}
+{"acceleration": 11.2, "mpg": 18.1, "car name": "ford futura", "cylinders": 8, "weight": 3205.0, "displacement": 302.0, "horsepower": 139.0, "model year": 78, "origin": 1}
+{"acceleration": 13.7, "mpg": 17.5, "car name": "dodge magnum xe", "cylinders": 8, "weight": 4080.0, "displacement": 318.0, "horsepower": 140.0, "model year": 78, "origin": 1}
+{"acceleration": 16.5, "mpg": 30.0, "car name": "chevrolet chevette", "cylinders": 4, "weight": 2155.0, "displacement": 98.0, "horsepower": 68.0, "model year": 78, "origin": 1}
+{"acceleration": 14.2, "mpg": 27.5, "car name": "toyota corona", "cylinders": 4, "weight": 2560.0, "displacement": 134.0, "horsepower": 95.0, "model year": 78, "origin": 3}
+{"acceleration": 14.7, "mpg": 27.2, "car name": "datsun 510", "cylinders": 4, "weight": 2300.0, "displacement": 119.0, "horsepower": 97.0, "model year": 78, "origin": 3}
+{"acceleration": 14.5, "mpg": 30.9, "car name": "dodge omni", "cylinders": 4, "weight": 2230.0, "displacement": 105.0, "horsepower": 75.0, "model year": 78, "origin": 1}
+{"acceleration": 14.8, "mpg": 21.1, "car name": "toyota celica gt liftback", "cylinders": 4, "weight": 2515.0, "displacement": 134.0, "horsepower": 95.0, "model year": 78, "origin": 3}
+{"acceleration": 16.7, "mpg": 23.2, "car name": "plymouth sapporo", "cylinders": 4, "weight": 2745.0, "displacement": 156.0, "horsepower": 105.0, "model year": 78, "origin": 1}
+{"acceleration": 17.6, "mpg": 23.8, "car name": "oldsmobile starfire sx", "cylinders": 4, "weight": 2855.0, "displacement": 151.0, "horsepower": 85.0, "model year": 78, "origin": 1}
+{"acceleration": 14.9, "mpg": 23.9, "car name": "datsun 200-sx", "cylinders": 4, "weight": 2405.0, "displacement": 119.0, "horsepower": 97.0, "model year": 78, "origin": 3}
+{"acceleration": 15.9, "mpg": 20.3, "car name": "audi 5000", "cylinders": 5, "weight": 2830.0, "displacement": 131.0, "horsepower": 103.0, "model year": 78, "origin": 2}
+{"acceleration": 13.6, "mpg": 17.0, "car name": "volvo 264gl", "cylinders": 6, "weight": 3140.0, "displacement": 163.0, "horsepower": 125.0, "model year": 78, "origin": 2}
+{"acceleration": 15.7, "mpg": 21.6, "car name": "saab 99gle", "cylinders": 4, "weight": 2795.0, "displacement": 121.0, "horsepower": 115.0, "model year": 78, "origin": 2}
+{"acceleration": 15.8, "mpg": 16.2, "car name": "peugeot 604sl", "cylinders": 6, "weight": 3410.0, "displacement": 163.0, "horsepower": 133.0, "model year": 78, "origin": 2}
+{"acceleration": 14.9, "mpg": 31.5, "car name": "volkswagen scirocco", "cylinders": 4, "weight": 1990.0, "displacement": 89.0, "horsepower": 71.0, "model year": 78, "origin": 2}
+{"acceleration": 16.6, "mpg": 29.5, "car name": "honda accord lx", "cylinders": 4, "weight": 2135.0, "displacement": 98.0, "horsepower": 68.0, "model year": 78, "origin": 3}
+{"acceleration": 15.4, "mpg": 21.5, "car name": "pontiac lemans v6", "cylinders": 6, "weight": 3245.0, "displacement": 231.0, "horsepower": 115.0, "model year": 79, "origin": 1}
+{"acceleration": 18.2, "mpg": 19.8, "car name": "mercury zephyr 6", "cylinders": 6, "weight": 2990.0, "displacement": 200.0, "horsepower": 85.0, "model year": 79, "origin": 1}
+{"acceleration": 17.3, "mpg": 22.3, "car name": "ford fairmont 4", "cylinders": 4, "weight": 2890.0, "displacement": 140.0, "horsepower": 88.0, "model year": 79, "origin": 1}
+{"acceleration": 18.2, "mpg": 20.2, "car name": "amc concord dl 6", "cylinders": 6, "weight": 3265.0, "displacement": 232.0, "horsepower": 90.0, "model year": 79, "origin": 1}
+{"acceleration": 16.6, "mpg": 20.6, "car name": "dodge aspen 6", "cylinders": 6, "weight": 3360.0, "displacement": 225.0, "horsepower": 110.0, "model year": 79, "origin": 1}
+{"acceleration": 15.4, "mpg": 17.0, "car name": "chevrolet caprice classic", "cylinders": 8, "weight": 3840.0, "displacement": 305.0, "horsepower": 130.0, "model year": 79, "origin": 1}
+{"acceleration": 13.4, "mpg": 17.6, "car name": "ford ltd landau", "cylinders": 8, "weight": 3725.0, "displacement": 302.0, "horsepower": 129.0, "model year": 79, "origin": 1}
+{"acceleration": 13.2, "mpg": 16.5, "car name": "mercury grand marquis", "cylinders": 8, "weight": 3955.0, "displacement": 351.0, "horsepower": 138.0, "model year": 79, "origin": 1}
+{"acceleration": 15.2, "mpg": 18.2, "car name": "dodge st. regis", "cylinders": 8, "weight": 3830.0, "displacement": 318.0, "horsepower": 135.0, "model year": 79, "origin": 1}
+{"acceleration": 14.9, "mpg": 16.9, "car name": "buick estate wagon (sw)", "cylinders": 8, "weight": 4360.0, "displacement": 350.0, "horsepower": 155.0, "model year": 79, "origin": 1}
+{"acceleration": 14.3, "mpg": 15.5, "car name": "ford country squire (sw)", "cylinders": 8, "weight": 4054.0, "displacement": 351.0, "horsepower": 142.0, "model year": 79, "origin": 1}
+{"acceleration": 15.0, "mpg": 19.2, "car name": "chevrolet malibu classic (sw)", "cylinders": 8, "weight": 3605.0, "displacement": 267.0, "horsepower": 125.0, "model year": 79, "origin": 1}
+{"acceleration": 13.0, "mpg": 18.5, "car name": "chrysler lebaron town @ country (sw)", "cylinders": 8, "weight": 3940.0, "displacement": 360.0, "horsepower": 150.0, "model year": 79, "origin": 1}
+{"acceleration": 14.0, "mpg": 31.9, "car name": "vw rabbit custom", "cylinders": 4, "weight": 1925.0, "displacement": 89.0, "horsepower": 71.0, "model year": 79, "origin": 2}
+{"acceleration": 15.2, "mpg": 34.1, "car name": "maxda glc deluxe", "cylinders": 4, "weight": 1975.0, "displacement": 86.0, "horsepower": 65.0, "model year": 79, "origin": 3}
+{"acceleration": 14.4, "mpg": 35.7, "car name": "dodge colt hatchback custom", "cylinders": 4, "weight": 1915.0, "displacement": 98.0, "horsepower": 80.0, "model year": 79, "origin": 1}
+{"acceleration": 15.0, "mpg": 27.4, "car name": "amc spirit dl", "cylinders": 4, "weight": 2670.0, "displacement": 121.0, "horsepower": 80.0, "model year": 79, "origin": 1}
+{"acceleration": 20.1, "mpg": 25.4, "car name": "mercedes benz 300d", "cylinders": 5, "weight": 3530.0, "displacement": 183.0, "horsepower": 77.0, "model year": 79, "origin": 2}
+{"acceleration": 17.4, "mpg": 23.0, "car name": "cadillac eldorado", "cylinders": 8, "weight": 3900.0, "displacement": 350.0, "horsepower": 125.0, "model year": 79, "origin": 1}
+{"acceleration": 24.8, "mpg": 27.2, "car name": "peugeot 504", "cylinders": 4, "weight": 3190.0, "displacement": 141.0, "horsepower": 71.0, "model year": 79, "origin": 2}
+{"acceleration": 22.2, "mpg": 23.9, "car name": "oldsmobile cutlass salon brougham", "cylinders": 8, "weight": 3420.0, "displacement": 260.0, "horsepower": 90.0, "model year": 79, "origin": 1}
+{"acceleration": 13.2, "mpg": 34.2, "car name": "plymouth horizon", "cylinders": 4, "weight": 2200.0, "displacement": 105.0, "horsepower": 70.0, "model year": 79, "origin": 1}
+{"acceleration": 14.9, "mpg": 34.5, "car name": "plymouth horizon tc3", "cylinders": 4, "weight": 2150.0, "displacement": 105.0, "horsepower": 70.0, "model year": 79, "origin": 1}
+{"acceleration": 19.2, "mpg": 31.8, "car name": "datsun 210", "cylinders": 4, "weight": 2020.0, "displacement": 85.0, "horsepower": 65.0, "model year": 79, "origin": 3}
+{"acceleration": 14.7, "mpg": 37.3, "car name": "fiat strada custom", "cylinders": 4, "weight": 2130.0, "displacement": 91.0, "horsepower": 69.0, "model year": 79, "origin": 2}
+{"acceleration": 16.0, "mpg": 28.4, "car name": "buick skylark limited", "cylinders": 4, "weight": 2670.0, "displacement": 151.0, "horsepower": 90.0, "model year": 79, "origin": 1}
+{"acceleration": 11.3, "mpg": 28.8, "car name": "chevrolet citation", "cylinders": 6, "weight": 2595.0, "displacement": 173.0, "horsepower": 115.0, "model year": 79, "origin": 1}
+{"acceleration": 12.9, "mpg": 26.8, "car name": "oldsmobile omega brougham", "cylinders": 6, "weight": 2700.0, "displacement": 173.0, "horsepower": 115.0, "model year": 79, "origin": 1}
+{"acceleration": 13.2, "mpg": 33.5, "car name": "pontiac phoenix", "cylinders": 4, "weight": 2556.0, "displacement": 151.0, "horsepower": 90.0, "model year": 79, "origin": 1}
+{"acceleration": 14.7, "mpg": 41.5, "car name": "vw rabbit", "cylinders": 4, "weight": 2144.0, "displacement": 98.0, "horsepower": 76.0, "model year": 80, "origin": 2}
+{"acceleration": 18.8, "mpg": 38.1, "car name": "toyota corolla tercel", "cylinders": 4, "weight": 1968.0, "displacement": 89.0, "horsepower": 60.0, "model year": 80, "origin": 3}
+{"acceleration": 15.5, "mpg": 32.1, "car name": "chevrolet chevette", "cylinders": 4, "weight": 2120.0, "displacement": 98.0, "horsepower": 70.0, "model year": 80, "origin": 1}
+{"acceleration": 16.4, "mpg": 37.2, "car name": "datsun 310", "cylinders": 4, "weight": 2019.0, "displacement": 86.0, "horsepower": 65.0, "model year": 80, "origin": 3}
+{"acceleration": 16.5, "mpg": 28.0, "car name": "chevrolet citation", "cylinders": 4, "weight": 2678.0, "displacement": 151.0, "horsepower": 90.0, "model year": 80, "origin": 1}
+{"acceleration": 18.1, "mpg": 26.4, "car name": "ford fairmont", "cylinders": 4, "weight": 2870.0, "displacement": 140.0, "horsepower": 88.0, "model year": 80, "origin": 1}
+{"acceleration": 20.1, "mpg": 24.3, "car name": "amc concord", "cylinders": 4, "weight": 3003.0, "displacement": 151.0, "horsepower": 90.0, "model year": 80, "origin": 1}
+{"acceleration": 18.7, "mpg": 19.1, "car name": "dodge aspen", "cylinders": 6, "weight": 3381.0, "displacement": 225.0, "horsepower": 90.0, "model year": 80, "origin": 1}
+{"acceleration": 15.8, "mpg": 34.3, "car name": "audi 4000", "cylinders": 4, "weight": 2188.0, "displacement": 97.0, "horsepower": 78.0, "model year": 80, "origin": 2}
+{"acceleration": 15.5, "mpg": 29.8, "car name": "toyota corona liftback", "cylinders": 4, "weight": 2711.0, "displacement": 134.0, "horsepower": 90.0, "model year": 80, "origin": 3}
+{"acceleration": 17.5, "mpg": 31.3, "car name": "mazda 626", "cylinders": 4, "weight": 2542.0, "displacement": 120.0, "horsepower": 75.0, "model year": 80, "origin": 3}
+{"acceleration": 15.0, "mpg": 37.0, "car name": "datsun 510 hatchback", "cylinders": 4, "weight": 2434.0, "displacement": 119.0, "horsepower": 92.0, "model year": 80, "origin": 3}
+{"acceleration": 15.2, "mpg": 32.2, "car name": "toyota corolla", "cylinders": 4, "weight": 2265.0, "displacement": 108.0, "horsepower": 75.0, "model year": 80, "origin": 3}
+{"acceleration": 17.9, "mpg": 46.6, "car name": "mazda glc", "cylinders": 4, "weight": 2110.0, "displacement": 86.0, "horsepower": 65.0, "model year": 80, "origin": 3}
+{"acceleration": 14.4, "mpg": 27.9, "car name": "dodge colt", "cylinders": 4, "weight": 2800.0, "displacement": 156.0, "horsepower": 105.0, "model year": 80, "origin": 1}
+{"acceleration": 19.2, "mpg": 40.8, "car name": "datsun 210", "cylinders": 4, "weight": 2110.0, "displacement": 85.0, "horsepower": 65.0, "model year": 80, "origin": 3}
+{"acceleration": 21.7, "mpg": 44.3, "car name": "vw rabbit c (diesel)", "cylinders": 4, "weight": 2085.0, "displacement": 90.0, "horsepower": 48.0, "model year": 80, "origin": 2}
+{"acceleration": 23.7, "mpg": 43.4, "car name": "vw dasher (diesel)", "cylinders": 4, "weight": 2335.0, "displacement": 90.0, "horsepower": 48.0, "model year": 80, "origin": 2}
+{"acceleration": 19.9, "mpg": 36.4, "car name": "audi 5000s (diesel)", "cylinders": 5, "weight": 2950.0, "displacement": 121.0, "horsepower": 67.0, "model year": 80, "origin": 2}
+{"acceleration": 21.8, "mpg": 30.0, "car name": "mercedes-benz 240d", "cylinders": 4, "weight": 3250.0, "displacement": 146.0, "horsepower": 67.0, "model year": 80, "origin": 2}
+{"acceleration": 13.8, "mpg": 44.6, "car name": "honda civic 1500 gl", "cylinders": 4, "weight": 1850.0, "displacement": 91.0, "horsepower": 67.0, "model year": 80, "origin": 3}
+{"acceleration": 17.3, "mpg": 40.9, "car name": "renault lecar deluxe", "cylinders": 4, "weight": 1835.0, "displacement": 85.0, "model year": 80, "origin": 2}
+{"acceleration": 18.0, "mpg": 33.8, "car name": "subaru dl", "cylinders": 4, "weight": 2145.0, "displacement": 97.0, "horsepower": 67.0, "model year": 80, "origin": 3}
+{"acceleration": 15.3, "mpg": 29.8, "car name": "vokswagen rabbit", "cylinders": 4, "weight": 1845.0, "displacement": 89.0, "horsepower": 62.0, "model year": 80, "origin": 2}
+{"acceleration": 11.4, "mpg": 32.7, "car name": "datsun 280-zx", "cylinders": 6, "weight": 2910.0, "displacement": 168.0, "horsepower": 132.0, "model year": 80, "origin": 3}
+{"acceleration": 12.5, "mpg": 23.7, "car name": "mazda rx-7 gs", "cylinders": 3, "weight": 2420.0, "displacement": 70.0, "horsepower": 100.0, "model year": 80, "origin": 3}
+{"acceleration": 15.1, "mpg": 35.0, "car name": "triumph tr7 coupe", "cylinders": 4, "weight": 2500.0, "displacement": 122.0, "horsepower": 88.0, "model year": 80, "origin": 2}
+{"acceleration": 14.3, "mpg": 23.6, "car name": "ford mustang cobra", "cylinders": 4, "weight": 2905.0, "displacement": 140.0, "model year": 80, "origin": 1}
+{"acceleration": 17.0, "mpg": 32.4, "car name": "honda accord", "cylinders": 4, "weight": 2290.0, "displacement": 107.0, "horsepower": 72.0, "model year": 80, "origin": 3}
+{"acceleration": 15.7, "mpg": 27.2, "car name": "plymouth reliant", "cylinders": 4, "weight": 2490.0, "displacement": 135.0, "horsepower": 84.0, "model year": 81, "origin": 1}
+{"acceleration": 16.4, "mpg": 26.6, "car name": "buick skylark", "cylinders": 4, "weight": 2635.0, "displacement": 151.0, "horsepower": 84.0, "model year": 81, "origin": 1}
+{"acceleration": 14.4, "mpg": 25.8, "car name": "dodge aries wagon (sw)", "cylinders": 4, "weight": 2620.0, "displacement": 156.0, "horsepower": 92.0, "model year": 81, "origin": 1}
+{"acceleration": 12.6, "mpg": 23.5, "car name": "chevrolet citation", "cylinders": 6, "weight": 2725.0, "displacement": 173.0, "horsepower": 110.0, "model year": 81, "origin": 1}
+{"acceleration": 12.9, "mpg": 30.0, "car name": "plymouth reliant", "cylinders": 4, "weight": 2385.0, "displacement": 135.0, "horsepower": 84.0, "model year": 81, "origin": 1}
+{"acceleration": 16.9, "mpg": 39.1, "car name": "toyota starlet", "cylinders": 4, "weight": 1755.0, "displacement": 79.0, "horsepower": 58.0, "model year": 81, "origin": 3}
+{"acceleration": 16.4, "mpg": 39.0, "car name": "plymouth champ", "cylinders": 4, "weight": 1875.0, "displacement": 86.0, "horsepower": 64.0, "model year": 81, "origin": 1}
+{"acceleration": 16.1, "mpg": 35.1, "car name": "honda civic 1300", "cylinders": 4, "weight": 1760.0, "displacement": 81.0, "horsepower": 60.0, "model year": 81, "origin": 3}
+{"acceleration": 17.8, "mpg": 32.3, "car name": "subaru", "cylinders": 4, "weight": 2065.0, "displacement": 97.0, "horsepower": 67.0, "model year": 81, "origin": 3}
+{"acceleration": 19.4, "mpg": 37.0, "car name": "datsun 210 mpg", "cylinders": 4, "weight": 1975.0, "displacement": 85.0, "horsepower": 65.0, "model year": 81, "origin": 3}
+{"acceleration": 17.3, "mpg": 37.7, "car name": "toyota tercel", "cylinders": 4, "weight": 2050.0, "displacement": 89.0, "horsepower": 62.0, "model year": 81, "origin": 3}
+{"acceleration": 16.0, "mpg": 34.1, "car name": "mazda glc 4", "cylinders": 4, "weight": 1985.0, "displacement": 91.0, "horsepower": 68.0, "model year": 81, "origin": 3}
+{"acceleration": 14.9, "mpg": 34.7, "car name": "plymouth horizon 4", "cylinders": 4, "weight": 2215.0, "displacement": 105.0, "horsepower": 63.0, "model year": 81, "origin": 1}
+{"acceleration": 16.2, "mpg": 34.4, "car name": "ford escort 4w", "cylinders": 4, "weight": 2045.0, "displacement": 98.0, "horsepower": 65.0, "model year": 81, "origin": 1}
+{"acceleration": 20.7, "mpg": 29.9, "car name": "ford escort 2h", "cylinders": 4, "weight": 2380.0, "displacement": 98.0, "horsepower": 65.0, "model year": 81, "origin": 1}
+{"acceleration": 14.2, "mpg": 33.0, "car name": "volkswagen jetta", "cylinders": 4, "weight": 2190.0, "displacement": 105.0, "horsepower": 74.0, "model year": 81, "origin": 2}
+{"acceleration": 15.8, "mpg": 34.5, "car name": "renault 18i", "cylinders": 4, "weight": 2320.0, "displacement": 100.0, "model year": 81, "origin": 2}
+{"acceleration": 14.4, "mpg": 33.7, "car name": "honda prelude", "cylinders": 4, "weight": 2210.0, "displacement": 107.0, "horsepower": 75.0, "model year": 81, "origin": 3}
+{"acceleration": 16.8, "mpg": 32.4, "car name": "toyota corolla", "cylinders": 4, "weight": 2350.0, "displacement": 108.0, "horsepower": 75.0, "model year": 81, "origin": 3}
+{"acceleration": 14.8, "mpg": 32.9, "car name": "datsun 200sx", "cylinders": 4, "weight": 2615.0, "displacement": 119.0, "horsepower": 100.0, "model year": 81, "origin": 3}
+{"acceleration": 18.3, "mpg": 31.6, "car name": "mazda 626", "cylinders": 4, "weight": 2635.0, "displacement": 120.0, "horsepower": 74.0, "model year": 81, "origin": 3}
+{"acceleration": 20.4, "mpg": 28.1, "car name": "peugeot 505s turbo diesel", "cylinders": 4, "weight": 3230.0, "displacement": 141.0, "horsepower": 80.0, "model year": 81, "origin": 2}
+{"acceleration": 19.6, "mpg": 30.7, "car name": "volvo diesel", "cylinders": 6, "weight": 3160.0, "displacement": 145.0, "horsepower": 76.0, "model year": 81, "origin": 2}
+{"acceleration": 12.6, "mpg": 25.4, "car name": "toyota cressida", "cylinders": 6, "weight": 2900.0, "displacement": 168.0, "horsepower": 116.0, "model year": 81, "origin": 3}
+{"acceleration": 13.8, "mpg": 24.2, "car name": "datsun 810 maxima", "cylinders": 6, "weight": 2930.0, "displacement": 146.0, "horsepower": 120.0, "model year": 81, "origin": 3}
+{"acceleration": 15.8, "mpg": 22.4, "car name": "buick century", "cylinders": 6, "weight": 3415.0, "displacement": 231.0, "horsepower": 110.0, "model year": 81, "origin": 1}
+{"acceleration": 19.0, "mpg": 26.6, "car name": "oldsmobile cutlass ls", "cylinders": 8, "weight": 3725.0, "displacement": 350.0, "horsepower": 105.0, "model year": 81, "origin": 1}
+{"acceleration": 17.1, "mpg": 20.2, "car name": "ford granada gl", "cylinders": 6, "weight": 3060.0, "displacement": 200.0, "horsepower": 88.0, "model year": 81, "origin": 1}
+{"acceleration": 16.6, "mpg": 17.6, "car name": "chrysler lebaron salon", "cylinders": 6, "weight": 3465.0, "displacement": 225.0, "horsepower": 85.0, "model year": 81, "origin": 1}
+{"acceleration": 19.6, "mpg": 28.0, "car name": "chevrolet cavalier", "cylinders": 4, "weight": 2605.0, "displacement": 112.0, "horsepower": 88.0, "model year": 82, "origin": 1}
+{"acceleration": 18.6, "mpg": 27.0, "car name": "chevrolet cavalier wagon", "cylinders": 4, "weight": 2640.0, "displacement": 112.0, "horsepower": 88.0, "model year": 82, "origin": 1}
+{"acceleration": 18.0, "mpg": 34.0, "car name": "chevrolet cavalier 2-door", "cylinders": 4, "weight": 2395.0, "displacement": 112.0, "horsepower": 88.0, "model year": 82, "origin": 1}
+{"acceleration": 16.2, "mpg": 31.0, "car name": "pontiac j2000 se hatchback", "cylinders": 4, "weight": 2575.0, "displacement": 112.0, "horsepower": 85.0, "model year": 82, "origin": 1}
+{"acceleration": 16.0, "mpg": 29.0, "car name": "dodge aries se", "cylinders": 4, "weight": 2525.0, "displacement": 135.0, "horsepower": 84.0, "model year": 82, "origin": 1}
+{"acceleration": 18.0, "mpg": 27.0, "car name": "pontiac phoenix", "cylinders": 4, "weight": 2735.0, "displacement": 151.0, "horsepower": 90.0, "model year": 82, "origin": 1}
+{"acceleration": 16.4, "mpg": 24.0, "car name": "ford fairmont futura", "cylinders": 4, "weight": 2865.0, "displacement": 140.0, "horsepower": 92.0, "model year": 82, "origin": 1}
+{"acceleration": 20.5, "mpg": 23.0, "car name": "amc concord dl", "cylinders": 4, "weight": 3035.0, "displacement": 151.0, "model year": 82, "origin": 1}
+{"acceleration": 15.3, "mpg": 36.0, "car name": "volkswagen rabbit l", "cylinders": 4, "weight": 1980.0, "displacement": 105.0, "horsepower": 74.0, "model year": 82, "origin": 2}
+{"acceleration": 18.2, "mpg": 37.0, "car name": "mazda glc custom l", "cylinders": 4, "weight": 2025.0, "displacement": 91.0, "horsepower": 68.0, "model year": 82, "origin": 3}
+{"acceleration": 17.6, "mpg": 31.0, "car name": "mazda glc custom", "cylinders": 4, "weight": 1970.0, "displacement": 91.0, "horsepower": 68.0, "model year": 82, "origin": 3}
+{"acceleration": 14.7, "mpg": 38.0, "car name": "plymouth horizon miser", "cylinders": 4, "weight": 2125.0, "displacement": 105.0, "horsepower": 63.0, "model year": 82, "origin": 1}
+{"acceleration": 17.3, "mpg": 36.0, "car name": "mercury lynx l", "cylinders": 4, "weight": 2125.0, "displacement": 98.0, "horsepower": 70.0, "model year": 82, "origin": 1}
+{"acceleration": 14.5, "mpg": 36.0, "car name": "nissan stanza xe", "cylinders": 4, "weight": 2160.0, "displacement": 120.0, "horsepower": 88.0, "model year": 82, "origin": 3}
+{"acceleration": 14.5, "mpg": 36.0, "car name": "honda accord", "cylinders": 4, "weight": 2205.0, "displacement": 107.0, "horsepower": 75.0, "model year": 82, "origin": 3}
+{"acceleration": 16.9, "mpg": 34.0, "car name": "toyota corolla", "cylinders": 4, "weight": 2245, "displacement": 108.0, "horsepower": 70.0, "model year": 82, "origin": 3}
+{"acceleration": 15.0, "mpg": 38.0, "car name": "honda civic", "cylinders": 4, "weight": 1965.0, "displacement": 91.0, "horsepower": 67.0, "model year": 82, "origin": 3}
+{"acceleration": 15.7, "mpg": 32.0, "car name": "honda civic (auto)", "cylinders": 4, "weight": 1965.0, "displacement": 91.0, "horsepower": 67.0, "model year": 82, "origin": 3}
+{"acceleration": 16.2, "mpg": 38.0, "car name": "datsun 310 gx", "cylinders": 4, "weight": 1995.0, "displacement": 91.0, "horsepower": 67.0, "model year": 82, "origin": 3}
+{"acceleration": 16.4, "mpg": 25.0, "car name": "buick century limited", "cylinders": 6, "weight": 2945.0, "displacement": 181.0, "horsepower": 110.0, "model year": 82, "origin": 1}
+{"acceleration": 17.0, "mpg": 38.0, "car name": "oldsmobile cutlass ciera (diesel)", "cylinders": 6, "weight": 3015.0, "displacement": 262.0, "horsepower": 85.0, "model year": 82, "origin": 1}
+{"acceleration": 14.5, "mpg": 26.0, "car name": "chrysler lebaron medallion", "cylinders": 4, "weight": 2585.0, "displacement": 156.0, "horsepower": 92.0, "model year": 82, "origin": 1}
+{"acceleration": 14.7, "mpg": 22.0, "car name": "ford granada l", "cylinders": 6, "weight": 2835, "displacement": 232.0, "horsepower": 112.0, "model year": 82, "origin": 1}
+{"acceleration": 13.9, "mpg": 32.0, "car name": "toyota celica gt", "cylinders": 4, "weight": 2665.0, "displacement": 144.0, "horsepower": 96.0, "model year": 82, "origin": 3}
+{"acceleration": 13.0, "mpg": 36.0, "car name": "dodge charger 2.2", "cylinders": 4, "weight": 2370.0, "displacement": 135.0, "horsepower": 84.0, "model year": 82, "origin": 1}
+{"acceleration": 17.3, "mpg": 27.0, "car name": "chevrolet camaro", "cylinders": 4, "weight": 2950.0, "displacement": 151.0, "horsepower": 90.0, "model year": 82, "origin": 1}
+{"acceleration": 15.6, "mpg": 27.0, "car name": "ford mustang gl", "cylinders": 4, "weight": 2790.0, "displacement": 140.0, "horsepower": 86.0, "model year": 82, "origin": 1}
+{"acceleration": 24.6, "mpg": 44.0, "car name": "vw pickup", "cylinders": 4, "weight": 2130.0, "displacement": 97.0, "horsepower": 52.0, "model year": 82, "origin": 2}
+{"acceleration": 11.6, "mpg": 32.0, "car name": "dodge rampage", "cylinders": 4, "weight": 2295.0, "displacement": 135.0, "horsepower": 84.0, "model year": 82, "origin": 1}
+{"acceleration": 18.6, "mpg": 28.0, "car name": "ford ranger", "cylinders": 4, "weight": 2625.0, "displacement": 120.0, "horsepower": 79.0, "model year": 82, "origin": 1}
+{"acceleration": 19.4, "mpg": 31.0, "car name": "chevy s-10", "cylinders": 4, "weight": 2720.0, "displacement": 119.0, "horsepower": 82.0, "model year": 82, "origin": 1}
