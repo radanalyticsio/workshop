@@ -107,7 +107,7 @@ items:
       - name: OSHINKO_WEB_IMAGE
         description: Full name of the oshinko web image
         required: true
-        value: docker.io/elmiko/oshinko-webui:training
+        value: docker.io/radanalyticsio/oshinko-webui
       - name: OSHINKO_WEB_ROUTE_HOSTNAME
         description: The hostname used to create the external route for the webui
       - name: OSHINKO_DEPLOYMENT_NAME
