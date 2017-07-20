@@ -1,0 +1,257 @@
+kind: List
+apiVersion: v1
+metadata: {}
+
+items:
+
+  - apiVersion: v1
+    kind: ServiceAccount
+    metadata:
+      name: oshinko
+
+  - apiVersion: v1
+    kind: RoleBinding
+    metadata:
+      name: oshinko-edit
+    roleRef:
+      name: edit
+    subjects:
+      - kind: ServiceAccount
+        name: oshinko
+
+  - apiVersion: v1
+    kind: Template
+    template: oshinko-webui
+    metadata:
+      name: oshinko-webui
+    objects:
+      - kind: Service
+        apiVersion: v1
+        metadata:
+          name: ${OSHINKO_WEB_NAME}
+          labels:
+            name: ${OSHINKO_WEB_NAME}
+        spec:
+          ports:
+            - name: o-web-port
+              protocol: TCP
+              port: 8080
+              targetPort: 8080
+          selector:
+            name: ${OSHINKO_WEB_NAME}
+      - kind: DeploymentConfig
+        apiVersion: v1
+        metadata:
+          name: ${OSHINKO_DEPLOYMENT_NAME}
+        spec:
+          strategy:
+            type: Rolling
+          triggers:
+            - type: ConfigChange
+          replicas: 1
+          selector:
+            name: ${OSHINKO_WEB_NAME}
+          template:
+            metadata:
+              labels:
+                name: ${OSHINKO_WEB_NAME}
+            spec:
+              containers:
+                - name: ${OSHINKO_WEB_NAME}
+                  image: ${OSHINKO_WEB_IMAGE}
+                  ports:
+                    - name: o-web-port
+                      containerPort: 8080
+                      protocol: TCP
+                  env:
+                    - name: OSHINKO_SPARK_IMAGE
+                      value: ${OSHINKO_CLUSTER_IMAGE}
+                    - name: OSHINKO_REFRESH_INTERVAL
+                      value: ${OSHINKO_REFRESH_INTERVAL}
+                  readinessProbe:
+                    failureThreshold: 3
+                    httpGet:
+                      path: /
+                      port: 8080
+                      scheme: HTTP
+                    periodSeconds: 10
+                    successThreshold: 1
+                    timeoutSeconds: 1
+                  livenessProbe:
+                    failureThreshold: 3
+                    httpGet:
+                      path: /
+                      port: 8080
+                      scheme: HTTP
+                    periodSeconds: 10
+                    successThreshold: 1
+                    timeoutSeconds: 1
+              serviceAccount: oshinko
+      - kind: Route
+        apiVersion: v1
+        metadata:
+          name: ${OSHINKO_WEB_NAME}
+        spec:
+          host: ${OSHINKO_WEB_ROUTE_HOSTNAME}
+          to:
+            kind: Service
+            name: ${OSHINKO_WEB_NAME}
+    parameters:
+      - name: OSHINKO_CLUSTER_IMAGE
+        description: Full name of the spark image to use when creating clusters
+        required: true
+        value: docker.io/elmiko/openshift-spark:training
+      - name: OSHINKO_WEB_NAME
+        description: Name of the oshinko web service
+        value: "oshinko-web"
+      - name: OSHINKO_WEB_IMAGE
+        description: Full name of the oshinko web image
+        required: true
+        value: docker.io/elmiko/oshinko-webui:training
+      - name: OSHINKO_WEB_ROUTE_HOSTNAME
+        description: The hostname used to create the external route for the webui
+      - name: OSHINKO_DEPLOYMENT_NAME
+        description: Name of the oshinko deployment
+        value: "oshinko"
+      - name: OSHINKO_REFRESH_INTERVAL
+        value: "5"
+        description: Refresh interval for updating cluster list in seconds
+
+  - kind: Template
+    apiVersion: v1
+    template: var-notebook
+    metadata:
+      name: var-notebook
+    objects:
+
+    - kind: Service
+      apiVersion: v1
+      metadata:
+        name: ${APPNAME}
+        labels:
+          name: ${APPNAME}
+      spec:
+        ports:
+          - protocol: TCP
+            port: 8888
+            targetPort: 8888
+        selector:
+          name: ${APPNAME}
+
+    - kind: Route
+      apiVersion: v1
+      metadata:
+        name: ${APPNAME}
+      spec:
+        host: ${ROUTE_HOSTNAME}
+        to:
+          kind: Service
+          name: ${APPNAME}
+
+    - kind: DeploymentConfig
+      apiVersion: v1
+      metadata:
+        name: ${APPNAME}
+      spec:
+        strategy:
+          type: Rolling
+        triggers:
+          - type: ConfigChange
+        replicas: 1
+        selector:
+          name: ${APPNAME}
+        template:
+          metadata:
+            labels:
+              name: ${APPNAME}
+          spec:
+            containers:
+              - name: ${APPNAME}
+                image: docker.io/elmiko/workshop-notebook:training
+                env:
+                  - name: JUPYTER_NOTEBOOK_PASSWORD
+                    value: developer
+                ports:
+                  - containerPort: 8888
+                    protocol: TCP
+
+    parameters:
+      - name: APPNAME
+        description: the application name
+        value: var-notebook
+      - name: ROUTE_HOSTNAME
+        description: a hostname for the route
+
+  - kind: Template
+    apiVersion: v1
+    template: var-sandbox
+    metadata:
+      name: var-sandbox
+    objects:
+
+    - kind: Service
+      apiVersion: v1
+      metadata:
+        name: ${APPNAME}
+        labels:
+          name: ${APPNAME}
+      spec:
+        ports:
+          - protocol: TCP
+            port: 8080
+            targetPort: 8080
+        selector:
+          name: ${APPNAME}
+
+    - kind: Route
+      apiVersion: v1
+      metadata:
+        name: ${APPNAME}
+      spec:
+        host: ${ROUTE_HOSTNAME}
+        to:
+          kind: Service
+          name: ${APPNAME}
+
+    - kind: DeploymentConfig
+      apiVersion: v1
+      metadata:
+        name: ${APPNAME}
+      spec:
+        strategy:
+          type: Rolling
+        triggers:
+          - type: ConfigChange
+        replicas: 1
+        selector:
+          name: ${APPNAME}
+        template:
+          metadata:
+            labels:
+              name: ${APPNAME}
+          spec:
+            containers:
+              - name: ${APPNAME}
+                image: docker.io/elmiko/var-sandbox:training
+                env:
+                  - name: VAR_SPARK_MASTER
+                    value: ${SPARK_MASTER}
+                ports:
+                  - containerPort: 8080
+                    protocol: TCP
+                readinessProbe:
+                  httpGet:
+                    path: /
+                    port: 8080
+                  initialDelaySeconds: 15
+                  timeoutSeconds: 1
+
+    parameters:
+      - name: APPNAME
+        description: the application name
+        value: var-sandbox
+      - name: SPARK_MASTER
+        description: connection string for the spark master
+        value: local[*]
+      - name: ROUTE_HOSTNAME
+        description: a hostname for the route
