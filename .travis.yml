@@ -1,0 +1,10 @@
+sudo: required
+services:
+- docker
+script:
+- make build
+- make test
+env:
+  global:
+    # GITHUB_TOKEN (used by .travis.publish.sh)
+    secure: fZZUEtVnaVRa6K/2MUmx9FndqMr3W6VG+cXTalbmDXNRziX5PZ1Ud7qVuMmJFGQKfIqahLQxRHG5ifpzcBjtFuXyO1i7VcvWTyvIUhYNJyot8uuax2U95EpjtMJM1G6b5cPmOy69pxaKHhRywG2d+vscqmH/IkwGoXLJtq3/1HKXNuv/EVfMExT5Nn7RlczmPaCdhR8srKo+v3Vf6vhkQJlfhNvKyQ3sEmMKc49RtQtbrlVeJD+tvHhD4te8qSbqUJ8AR6lSmJQzP4f9fFcV9lmZFZAgy5cQSci/2/0BB/6fEt1GOSIyoEWQspEeLDclJnIrnAD9b6ig2vci1a+wZ9QZKDolvw1HAaZZ+E3lQ+0hAWSc8tVRU5Jj2aXOi0WRztDUN8PKFbRNiSK7HjUvnQaAvIl+hKVCtxaC6CaVU95H/RvviIUpTKDeoeD3LypwBPAPRnOxvSIDSBb2WV5QWtJsmRUy45/5qCvNHE2DCahcYo0x8ScaC3xgvzUoA3XlfzLKRiyoDgWXCgbAe5p8gf12pKquFTlxfxQQ/JUe0Ad671dwj7JpYfxVYbRRjQx8vbx2Soek2U0kV/TzNo16mOC121S5RxmJBHi+8B6ANhaubnlgmHYnFUsuAs5rxiweQ0BMmat4dzGNUxKJXwcy5W5tjtQ/UoWLHrocn5pDXY4=
