@@ -20,7 +20,8 @@ for notebook in $NOTEBOOKS ; do
   [ $NBC_CODE -ne 0 ] && echo "perf test for $notebook notebook wasn't possible to run" >> all.perf && continue
 
   # comment out the lines starting with 'get_ipython' (originally %matplotlib or %config)
-  sed -i'' 's/^\(get_ipython.*\)/#\1/' test.py
+  # also comment out those lines that start with 'interact('
+  sed -i'' -e 's/^\(get_ipython.*\)/#\1/' -e 's/^\(interact(.*\)/#\1/' test.py
 
   # run the notebook and measure the execution time
   /usr/bin/time -f'%E' -o $notebook.perf -- ipython test.py
