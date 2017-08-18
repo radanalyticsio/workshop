@@ -1,10 +1,10 @@
 #!/bin/bash
 set -x
 
-pip install --user pyspark
-
 # use the png backend for matplotlib
 export MPLBACKEND="Agg"
+
+export PYTHONPATH=$SPARK_HOME/python:$(echo $SPARK_HOME/python/lib/py4j-*-src.zip)
 
 NOTEBOOKS="ml-basics pyspark var" #var-demo workshop
 for notebook in $NOTEBOOKS ; do
