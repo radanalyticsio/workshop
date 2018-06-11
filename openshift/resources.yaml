@@ -24,6 +24,9 @@ items:
     template: var-notebook
     metadata:
       name: var-notebook
+      annotations:
+        openshift.io/display-name: Workshop Jupyter Notebook
+        description: A Project Jupyter image containing the intro to machine learning, Spark basics, and value-at-risk notebooks.
     objects:
 
     - kind: Service
@@ -89,6 +92,9 @@ items:
     template: var-sandbox
     metadata:
       name: var-sandbox
+      annotations:
+        openshift.io/display-name: Value at Risk Web Application
+        description: A sandbox application to demonstrate the value-at-risk algorithms explored in the notebook.
     objects:
 
     - kind: Service
@@ -163,6 +169,9 @@ items:
     template: oshinko-webui
     metadata:
       name: oshinko-webui
+      annotations:
+        openshift.io/display-name: Oshinko WebUI service
+        description: A browser-based tool for managing Apache Spark clusters.
     objects:
       - kind: Service
         apiVersion: v1
