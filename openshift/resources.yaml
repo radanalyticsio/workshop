@@ -72,7 +72,7 @@ items:
           spec:
             containers:
               - name: ${APPNAME}
-                image: docker.io/elmiko/workshop-notebook:training
+                image: docker.io/radanalyticsio/workshop-notebook:training
                 env:
                   - name: JUPYTER_NOTEBOOK_PASSWORD
                     value: developer
